@@ -14,7 +14,7 @@ Installation des extensions vs code :
 
 ## Livrable 
 
-- Lien de google slide  du membre 
+-  lien vers la diapositive créées pour la tâche sur la presentation global 
   - [diapositive d'Installation des extentions ](https://docs.google.com/presentation/d/12-nxVFw4INFp1Rr_1Mb2oeDgs2DpMjWf2CEvL3d-cJ0/edit?usp=sharing)
 
 ## Critère de validation
