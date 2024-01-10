@@ -16,7 +16,7 @@ Installation des extensions vs code :
 ## Livrable 
 
 -  lien vers la diapositive créées pour la tâche sur la presentation de adnan 
-  - [diapositive d'Installation des extentions ](https://docs.google.com/presentation/d/12-nxVFw4INFp1Rr_1Mb2oeDgs2DpMjWf2CEvL3d-cJ0/edit?usp=sharing)
+  - [Présentation-lab-starter-markdown ](https://docs.google.com/presentation/d/12-nxVFw4INFp1Rr_1Mb2oeDgs2DpMjWf2CEvL3d-cJ0/edit?usp=sharing)
 
 ## Critère de validation
 - Création d'un fichier markdown qui porte le nom de la tâche
