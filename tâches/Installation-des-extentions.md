@@ -34,5 +34,5 @@ Installation des extensions vs code :
    1. https://docs.google.com/presentation/d/1r0Fivo_e0QBV3Um2vUrA6q4oywIXdMDD4R8PFUSOLgQ/edit
 
 
-## version : 1 
+## version : 2
 
