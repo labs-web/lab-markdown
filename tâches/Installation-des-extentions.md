@@ -4,6 +4,7 @@
 ## Travail à faire
 Installation des extensions vs code :
     - yzhang.markdown-all-in-one
+    - ajouter une diapositive concerant l'extension 
 
 ## Pulls request 
 
@@ -14,7 +15,7 @@ Installation des extensions vs code :
 
 ## Livrable 
 
--  lien vers la diapositive créées pour la tâche sur la presentation global 
+-  lien vers la diapositive créées pour la tâche sur la presentation de adnan 
   - [diapositive d'Installation des extentions ](https://docs.google.com/presentation/d/12-nxVFw4INFp1Rr_1Mb2oeDgs2DpMjWf2CEvL3d-cJ0/edit?usp=sharing)
 
 ## Critère de validation
