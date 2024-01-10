@@ -14,7 +14,7 @@ Installation des extensions vs code :
    
 
 ## Livrable 
-- deux slide : 
+- deux diapositives : 
   - Titre 
   - A propos  l'extension 
 -  lien vers la diapositive créées pour la tâche sur la presentation de adnan 
