@@ -1,8 +1,11 @@
 # présentation-google-slide
 
-## Travail à faire
-Fait une présentation de lab markdown
 
+<!-- TODO : à refaire selon notre nouvelle structure des labs -->
+
+## Travail à faire
+
+Fait une présentation de lab markdown
 
 ## Pulls request 
 
