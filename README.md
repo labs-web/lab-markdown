@@ -1,11 +1,12 @@
-# lab starter markdown
+# 1. lab starter markdown
 
-<!-- TODO : Introduction : 
-- première lab, 
-- lab suivant : lab-gitflow
--->
+- [1. lab starter markdown](#1-lab-starter-markdown)
+  - [1.1. Backlog](#11-backlog)
+  - [1.2. Comment envoyer les livrable](#12-comment-envoyer-les-livrable)
+  - [1.3. Références](#13-références)
 
-## Backlog
+
+## 1.1. Backlog
 
 - backlog
 - exposé-markdown
@@ -15,10 +16,7 @@
 - présentation
 - rapport
 
-## Comment envoyer les livrable 
+## 1.2. Comment envoyer les livrable 
 
-<!-- TODO : Explication de gitflow et pullrequest -->
-  
-## Références 
 
-<!-- TODO : ajouter une référence -->
+## 1.3. Références 
