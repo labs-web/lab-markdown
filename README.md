@@ -1,22 +1,28 @@
-# 1. lab starter markdown
+#  
 
-- [1. lab starter markdown](#1-lab-starter-markdown)
-  - [1.1. Backlog](#11-backlog)
-  - [1.2. Comment envoyer les livrable](#12-comment-envoyer-les-livrable)
-  - [1.3. Références](#13-références)
+- Référence :   
 
+ 
 
-## 1.1. Backlog
+## Backlog 
 
-- backlog
-- exposé-markdown
-- rappel-markdown
-- installation-extentions
-- présentation-solicode-markdown
-- présentation
-- rapport
+Le backlog est une liste ordonées des tâches 
 
-## 1.2. Comment envoyer les livrable 
+- **chapitre** 
+- **exposé** 
+- **feature** 
+- **sous-tâche** 
+## Livrables 
 
+ 
 
-## 1.3. Références 
+- /Backlog 
+  - Backlog 
+- /docs 
+  - Documentation 
+## Références 
+
+ 
+
+- [Autoformation](#) 
+
