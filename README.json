@@ -1,7 +1,7 @@
 {
     "Introduction":{
-        "Titre" :"",
-        "Reference":"",
+        "Titre" :"Lab-Markdown",
+        "Reference":"lab-markdown",
         "Description" : ""
     },
     "Backlog":{
@@ -29,8 +29,8 @@
         "Introduction":"",
         "References": [
             {
-                "Titre":"Autoformation",
-                "Lien":"#"
+                "Titre":"github.com/labs-web",
+                "Lien":"https://github.com/labs-web"
             }
            
         ]
