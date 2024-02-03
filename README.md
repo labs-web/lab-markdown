@@ -11,7 +11,6 @@ Le backlog est une liste ordonées des tâches
 - **chapitre** 
 - **exposé** 
   - [1.exposé-markdown.25.md](./Backlog/exposé/1.exposé-markdown.25.md) 
-  - [2.test.40.md](./Backlog/exposé/2.test.40.md) 
 - **feature** 
   - [1.backlog.26.md](./Backlog/feature/1.backlog.26.md) 
   - [2.installation-extentions.27.md](./Backlog/feature/2.installation-extentions.27.md) 
@@ -22,6 +21,8 @@ Le backlog est une liste ordonées des tâches
   - [9.rapport.31.md](./Backlog/feature/9.rapport.31.md) 
 - **sous-tâche** 
 ## Livrables 
+
+ 
 
 - /Backlog 
   - Backlog 
