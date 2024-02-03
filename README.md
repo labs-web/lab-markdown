@@ -1,31 +1,37 @@
-# lab starter markdown
+# Lab-Markdown 
 
-<!-- TODO : Introduction : 
-- première lab, 
-- lab suivant : lab-gitflow
--->
+- Référence :  lab-markdown 
 
-## Réalisation d'un lab 
-- Rédaction de travail à faire 
-- Création des fichiers livrable vide pour aider les membres à bien réaliser les tâches.
+ 
 
-## Travail à faire 
+## Backlog 
 
-1. Création de présentation de solicode en markdown
-   - les livrable doit être enregistre dans le dossier ``Présentation-solicode``
-   - Livrable 1 : solicode.md
-   - Livrable 2 : readme.md
+Le backlog est une liste ordonées des tâches 
 
-2. Présentation de lab-starter
-   - Livrable 1 : présentation.ppx
-   - Livrable 2 : readme.md
+- **chapitre** 
+- **exposé** 
+  - [1.exposé-markdown.25.md](./Backlog/exposé/1.exposé-markdown.25.md) 
+- **feature** 
+  - [1.backlog.26.md](./Backlog/feature/1.backlog.26.md) 
+  - [2.installation-extentions.27.md](./Backlog/feature/2.installation-extentions.27.md) 
+  - [3.rappel-markdown.28.md](./Backlog/feature/3.rappel-markdown.28.md) 
+  - [4.présentation-solicode.29.md](./Backlog/feature/4.présentation-solicode.29.md) 
+  - [5.convertion-en-html.19.md](./Backlog/feature/5.convertion-en-html.19.md) 
+  - [8.présentation.30.md](./Backlog/feature/8.présentation.30.md) 
+  - [9.rapport.31.md](./Backlog/feature/9.rapport.31.md) 
+- **sous-tâche** 
+## Livrables 
 
-## Critère de validation 
-- Utilisation des images
+ 
 
-## Comment envoyer les livrable 
-
-<!-- TODO : Explication de fork, pullrequest -->
-  
+- /Backlog 
+  - Backlog 
+- /docs 
+  - Documentation 
 ## Références 
-<!-- TODO : ajouter une référence -->
+
+ 
+
+- [Documentation](https://labs-web.github.io/lab-markdown/) 
+- [github.com/labs-web](https://github.com/labs-web/lab-markdown) 
+
