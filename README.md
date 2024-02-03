@@ -10,16 +10,16 @@ Le backlog est une liste ordonées des tâches
 
 - **chapitre** 
 - **exposé** 
-  - [1.exposé-markdown.md](./Backlog/exposé/1.exposé-markdown.md) 
-  - [2.test.md](./Backlog/exposé/2.test.md) 
+  - [1.exposé-markdown.25.md](./Backlog/exposé/1.exposé-markdown.25.md) 
+  - [2.test.40.md](./Backlog/exposé/2.test.40.md) 
 - **feature** 
-  - [1.backlog.md](./Backlog/feature/1.backlog.md) 
-  - [2.installation-extentions.md](./Backlog/feature/2.installation-extentions.md) 
-  - [3.rappel-markdown.md](./Backlog/feature/3.rappel-markdown.md) 
-  - [4.présentation-solicode-markdown.md](./Backlog/feature/4.présentation-solicode-markdown.md) 
+  - [1.backlog.26.md](./Backlog/feature/1.backlog.26.md) 
+  - [2.installation-extentions.27.md](./Backlog/feature/2.installation-extentions.27.md) 
+  - [3.rappel-markdown.28.md](./Backlog/feature/3.rappel-markdown.28.md) 
+  - [4.présentation-solicode-markdown.29.md](./Backlog/feature/4.présentation-solicode-markdown.29.md) 
   - [5.Convertion automatique d'un fichier markdown en html.19.md](./Backlog/feature/5.Convertion automatique d'un fichier markdown en html.19.md) 
-  - [8.présentation.md](./Backlog/feature/8.présentation.md) 
-  - [9.rapport.md](./Backlog/feature/9.rapport.md) 
+  - [8.présentation.30.md](./Backlog/feature/8.présentation.30.md) 
+  - [9.rapport.31.md](./Backlog/feature/9.rapport.31.md) 
 - **sous-tâche** 
 ## Livrables 
 
@@ -33,5 +33,5 @@ Le backlog est une liste ordonées des tâches
 
  
 
-- [github.com/labs-web](https://github.com/labs-web) 
+- [github.com/labs-web](https://github.com/labs-web/lab-markdown) 
 
