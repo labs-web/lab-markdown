@@ -1,22 +1,34 @@
-# 1. lab starter markdown
+# Lab-Markdown 
 
-- [1. lab starter markdown](#1-lab-starter-markdown)
-  - [1.1. Backlog](#11-backlog)
-  - [1.2. Comment envoyer les livrable](#12-comment-envoyer-les-livrable)
-  - [1.3. Références](#13-références)
+- Référence :  lab-markdown 
 
+ 
 
-## 1.1. Backlog
+## Backlog 
 
-- backlog
-- exposé-markdown
-- rappel-markdown
-- installation-extentions
-- présentation-solicode-markdown
-- présentation
-- rapport
+Le backlog est une liste ordonées des tâches 
 
-## 1.2. Comment envoyer les livrable 
+- **exposé** 
+  - [1.exposé-markdown.md](./Backlog/exposé/1.exposé-markdown.md) 
+- **feature** 
+  - [1.backlog.md](./Backlog/feature/1.backlog.md) 
+  - [2.installation-extentions.md](./Backlog/feature/2.installation-extentions.md) 
+  - [3.rappel-markdown.md](./Backlog/feature/3.rappel-markdown.md) 
+  - [4.présentation-solicode-markdown.md](./Backlog/feature/4.présentation-solicode-markdown.md) 
+  - [5.Convertion automatique d'un fichier markdown en html.19.md](./Backlog/feature/5.Convertion automatique d'un fichier markdown en html.19.md) 
+  - [8.présentation.md](./Backlog/feature/8.présentation.md) 
+  - [9.rapport.md](./Backlog/feature/9.rapport.md) 
+## Livrables 
 
+ 
 
-## 1.3. Références 
+- /Backlog 
+  - Backlog 
+- /docs 
+  - Documentation 
+## Références 
+
+ 
+
+- [github.com/labs-web](https://github.com/labs-web) 
+
