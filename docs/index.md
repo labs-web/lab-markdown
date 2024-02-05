@@ -1,11 +1,18 @@
 ---
-layout : default
+layout: default
+slug: /index
+order: 1
 ---
 
-<!-- Ce script affiche tous les pages dans la page index.html -->
-{%- assign pages = site.pages | sort: "order"  -%}
-{% for page in pages %}
-{% if page.url != "/feed.xml" and  page.url != "/"   %}
-    {{- page.content -}}
-{% endif %}
-{% endfor %}  
+
+<!--  -->   
+
+## Rapport 
+[Rapport](http://127.0.0.1:4000/lab-deploy-laravel/Rapport)
+
+## Backlog 
+[Backlog](http://127.0.0.1:4000/lab-deploy-laravel/Backlog)
+
+## Présentation 
+[Présentation](http://127.0.0.1:4000/lab-deploy-laravel/Présentation)
+
