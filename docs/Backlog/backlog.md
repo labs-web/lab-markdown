@@ -14,16 +14,16 @@ order: 3
         - Introduction.md
     - Installation-extension
         - images
-        - Installation-extension.md
+        - compte-rendu-installation-extension.md
     - Rappel-markdown
         - images
-        - Rappel-markdown.md
+        - compte-rendu-rappel-markdown.md
     - Présentation-solicode
         - images
-    - Présentation-solicode.md
-        - Convertion-en-html
+        - compte-rendu-présentation-solicode.md
+    - Convertion-en-html
         - images
-    - Convertion-en-html.md
+        - compte-rendu-convertion-en-html.md
     - Conclusion
         - Images
         - Conclusion.md
