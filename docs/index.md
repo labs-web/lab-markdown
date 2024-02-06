@@ -1,11 +1,15 @@
 ---
-layout : default
+layout: default
+slug: /index
+order: 1
 ---
 
-<!-- Ce script affiche tous les pages dans la page index.html -->
-{%- assign pages = site.pages | sort: "order"  -%}
-{% for page in pages %}
-{% if page.url != "/feed.xml" and  page.url != "/"   %}
-    {{- page.content -}}
-{% endif %}
-{% endfor %}  
+
+<!--  -->   
+
+## Rapport 
+[Rapport](https://labs-web.github.io/lab-markdown/rapport.html)
+
+## Présentation 
+[Présentation]()
+
