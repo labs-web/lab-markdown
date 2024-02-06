@@ -1,3 +1,0 @@
-# Table de matiéres
-
-## Introduction
