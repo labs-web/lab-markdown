@@ -18,12 +18,15 @@
                 data-separator-vertical="<!-- new detail-->"
                 data-separator-notes="^<!-- note -->"
                 >
+
                     <textarea data-template>
+                      <h1>presentation</h1>
                         {{ content  }}
                       </textarea>
                 </section>
             </div>
       </div>
+      
     </body>
     <script src="{{site.baseurl}}/assets/presentation/plugin/markdown/markdown.js"></script>
     <script src="{{site.baseurl}}/assets/presentation/dist/reveal.js"></script>
@@ -32,6 +35,5 @@
     plugins: [ RevealMarkdown ]
   });
     </script>
-
 
 </html>
