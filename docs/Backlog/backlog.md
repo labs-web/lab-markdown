@@ -7,7 +7,7 @@ order: 2
 <!-- new slide -->
 
 ### Structure des dossiers
-[images](../Backlog/images/img.jpg)
+![images]({{site.baseurl}}/Backlog/images/image.jpg)
 
 <!-- note -->
 
