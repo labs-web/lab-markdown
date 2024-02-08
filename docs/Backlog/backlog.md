@@ -1,11 +1,15 @@
 ---
 layout: default
-order: 3
+order: 2
 ---
 
 ## Backlog 
+<!-- new slide -->
 
 ### Structure des dossiers
+![images]({{site.baseurl}}/Backlog/images/image.jpg)
+
+<!-- note -->
 
 - docs
     - Index.md
@@ -31,3 +35,5 @@ order: 3
         - Backlog.md
     - rapport.md
     - présentation.html
+
+    <!-- new slide -->

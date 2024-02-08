@@ -1,7 +1,7 @@
-<!-- ---
+---
 layout: presentation
 order: 1
---- -->
+---
 
 
 {% assign pages = site.pages | sort: "order" %}
@@ -14,5 +14,5 @@ order: 1
   {% endif %}
 
 {% endfor %}
- 
+   
  
