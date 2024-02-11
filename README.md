@@ -17,6 +17,7 @@ Le backlog est une liste ordonées des tâches
   - [3.rappel-markdown.28.md](./Backlog/feature/3.rappel-markdown.28.md) 
   - [4.présentation-solicode.29.md](./Backlog/feature/4.présentation-solicode.29.md) 
   - [5.convertion-en-html.19.md](./Backlog/feature/5.convertion-en-html.19.md) 
+  - [6.taille-image.61.md](./Backlog/feature/6.taille-image.61.md) 
   - [8.présentation.30.md](./Backlog/feature/8.présentation.30.md) 
   - [9.rapport.31.md](./Backlog/feature/9.rapport.31.md) 
 - **sous-tâche** 
@@ -35,5 +36,5 @@ Le backlog est une liste ordonées des tâches
  
 
 - [Documentation](https://labs-web.github.io/lab-markdown/) 
-- [github.com/labs-web](https://github.com/labs-web/lab-markdown) 
+- [github.com/labs-web](https://labs-web.github.io/lab-markdown/rapport.html) 
 
