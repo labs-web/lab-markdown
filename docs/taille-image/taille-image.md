@@ -1,5 +1,6 @@
 ---
 layout: default
+chapitre: Taille d'image
 order: 8
 ---
 
