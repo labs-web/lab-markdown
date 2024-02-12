@@ -1,7 +1,7 @@
 ---
 layout: default
 chapitre: Rappel markdown
-order: 5
+order: 4
 ---
 
 ## Rappel markdown

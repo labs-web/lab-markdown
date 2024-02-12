@@ -1,7 +1,7 @@
 ---
 layout: default
 chapitre: Installation extentions
-order: 4
+order: 3
 ---
 
 ## Installation extentions

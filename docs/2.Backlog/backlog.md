@@ -1,13 +1,11 @@
 ---
 layout: default
 chapitre: Backlog
-order: 3
+order: 2
 ---
 
 ## Backlog 
-
 ### Structure des dossiers
-
 - docs
     - Index.md
     - Introduction

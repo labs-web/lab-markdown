@@ -1,7 +1,7 @@
 ---
 layout: default
 chapitre: Présentation solicode
-order: 6
+order: 5
 ---
 
 ## Présentation solicode
