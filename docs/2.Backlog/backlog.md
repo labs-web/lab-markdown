@@ -1,12 +1,12 @@
 ---
 layout: default
-order: 3
+chapitre: Structure des dossiers
+order: 2
 ---
 
 ## Backlog 
-
 ### Structure des dossiers
-
+<!-- note -->
 - docs
     - Index.md
     - Introduction
@@ -31,3 +31,4 @@ order: 3
         - Backlog.md
     - rapport.md
     - présentation.html
+<!-- new slide -->
