@@ -11,5 +11,7 @@ order: 2
 
 - Introduction
 - Qu’est-ce que le Markdown?
+- La syntaxe Markdown
+- Les limites de Markdown
 - Conclusion
 
