@@ -2,11 +2,12 @@
 layout: default
 order: 3
 ---
-
+<!-- new slide -->
 ## Backlog 
 
 ### Structure des dossiers
-
+![Structure]({{site.baseurl}}/Backlog/images/image.png)
+<!-- note -->
 - docs
     - Index.md
     - Introduction

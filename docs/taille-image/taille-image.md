@@ -2,6 +2,7 @@
 layout: default
 order: 8
 ---
+<!-- new slide -->
 
 ## Taille d'image
 
@@ -23,5 +24,6 @@ Luna Paint is a VS Code extension that lets you edit raster images from within t
 
 ![Solicode](./images/solicode.jpeg)
 
+<!-- new slide -->
 # Références
 - [Image Resize And Convert Tools](https://marketplace.visualstudio.com/items?itemName=GuusBeltman.ImageTools)
