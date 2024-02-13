@@ -113,22 +113,26 @@ gh pr create
 
   - Exemple :
 
+```table
 | Nom   | Âge | Ville    |
 |-------|-----|----------|
 | Alice | 30  | New York |
 | Bob   | 25  | Paris    |
 | Eve   | 35  | London   |
 
+```
 
 
 -  Checkbox
 
  -  Exemple :
+   
+```checkbox
 
 - [x] Tâche terminée
 - [ ] Tâche à faire
   
-
+```
 
 
 
