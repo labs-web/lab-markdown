@@ -8,10 +8,6 @@ Markdown est un langage facile à lire et à écrire pour formater du texte brut
 
 
 
-
-
-___
-
 ## Syntaxe de base pour l'écriture et la mise en forme
 
 ### En-têtes
@@ -90,13 +86,13 @@ Pour trier votre liste, faites précéder chaque ligne d'un nombre.
 
 ![Exposé Markdown](/lab-markdown/Exposé-markdown/images/Table.jpg)
 
-```git
+````
 |Header1|Header2|Header3|
 | --- | --- | --- |
 | This | is a | table |
 | This | is 2nd | row |
 | This | is 3rd | row |
-```
+````
 
 |Header1|Header2|Header3|
 | --- | --- | --- |
@@ -110,13 +106,13 @@ Pour trier votre liste, faites précéder chaque ligne d'un nombre.
 
 Vous pouvez utiliser cette syntaxe dans le ticket de GitHub pour cocher ou décocher la case en temps réel sans avoir à modifier la version originale du ticket.
 
-```git
+````
 * [ ] Checkbox1
 
 * [ ] Checkbox2
 
 * [x] Checkbox selected
-```
+````
 
 
 * [ ] Checkbox1
@@ -132,9 +128,9 @@ Vous pouvez utiliser cette syntaxe dans le ticket de GitHub pour cocher ou déco
 ### Quoting Text
 ![Exposé Markdown](/lab-markdown/Exposé-markdown/images/Quoting.png)
 
-```git
+````
 > This is a block quoted text
-```
+````
 
 > This is a block quoted text
 

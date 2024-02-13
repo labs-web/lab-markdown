@@ -1,5 +1,5 @@
 # Build settings
-# baseurl: "/besoin"
+baseurl: "/lab-markdown"
 
 # lsi: false
 # safe: true
