@@ -4,7 +4,7 @@ expose: Exposé design thinking
 order: 
 ---
 
-#   Rapport markdown
+# Rapport markdown
 
 ## Introduction 
 
