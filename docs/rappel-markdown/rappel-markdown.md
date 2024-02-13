@@ -16,7 +16,6 @@ order: 10
 ##### Titre de niveau 5
 ###### Titre de niveau 6
 ```
----
 
 -  Texte en gras
 
@@ -24,7 +23,7 @@ order: 10
 
 **Texte en gras**
 
----
+
 
 - Texte en italique
 
@@ -32,14 +31,14 @@ order: 10
 
 *Texte en italique*
 
----
+
 -  Texte barré
 
  - Exemple :
 
 ~~Texte barré~~
 
----
+
 
 - Liens
 
@@ -47,7 +46,7 @@ order: 10
 
 [Markdown Guide](https://www.markdownguide.org/)
 
----
+
 
 - Images
 
@@ -63,7 +62,7 @@ Les images peuvent avoir des attributs de style en ligne tels que la largeur et 
 
 
 
----
+
 
 - Listes non ordonnées
 
@@ -73,7 +72,7 @@ Les images peuvent avoir des attributs de style en ligne tels que la largeur et 
 - Élément 2
 - Élément 3
 
----
+
 
 - Listes ordonnées
 
@@ -83,7 +82,7 @@ Les images peuvent avoir des attributs de style en ligne tels que la largeur et 
 2. Deuxième élément
 3. Troisième élément
 
----
+
 
 -  Citations
 
@@ -91,7 +90,6 @@ Les images peuvent avoir des attributs de style en ligne tels que la largeur et 
 
 > Ceci est une citation.
 
----
 
 -  Code en ligne
 
@@ -99,7 +97,7 @@ Les images peuvent avoir des attributs de style en ligne tels que la largeur et 
 
 Utilisez la balise `<code>` pour afficher du code en ligne.
 
----
+
 -  Blocs de code
 
      - Exemple :
@@ -111,11 +109,6 @@ gh pr create
 
 ```
 
-
-
-
----
-
 - Tables
 
   - Exemple :
@@ -126,7 +119,7 @@ gh pr create
 | Bob   | 25  | Paris    |
 | Eve   | 35  | London   |
 
----
+
 
 -  Checkbox
 
@@ -137,6 +130,6 @@ gh pr create
   
 
 
----
+
 
 
