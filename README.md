@@ -35,5 +35,7 @@ Le backlog est une liste ordonées des tâches
  
 
 - [Documentation](https://labs-web.github.io/lab-markdown/) 
-- [github.com/labs-web](https://github.com/labs-web/lab-markdown) 
+- [Rapport](https://labs-web.github.io/lab-markdown/)
+- [Presentation](https://labs-web.github.io/lab-markdown/presentation.html)
+
 
