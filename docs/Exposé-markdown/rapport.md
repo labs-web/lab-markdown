@@ -1,7 +1,7 @@
 ---
 layout: default
-expose: Exposé design thinking
-order: 
+chapitre: Exposé lab markdown
+order: 8
 ---
 
 #   Rapport markdown

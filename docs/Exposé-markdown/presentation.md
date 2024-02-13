@@ -1,7 +1,7 @@
 ---
 layout: presentation
-expose: Exposé design thinking
-order: 1
+chapitre: Exposé lab markdown
+order: 9
 ---
 
 # Présentation
@@ -40,4 +40,3 @@ order: 1
 ### Quoting Text
 ![Exposé Markdown](/lab-markdown/Exposé-markdown/images/Quoting.png)
 <!-- new slide -->
-## Conclusion

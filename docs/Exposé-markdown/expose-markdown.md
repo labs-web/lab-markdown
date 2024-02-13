@@ -1,6 +1,6 @@
 ---
 layout: default
-expose: Exposé design thinking
+chapitre: Exposé lab markdown
 order: 4
 ---
 
