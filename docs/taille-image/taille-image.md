@@ -1,3 +1,7 @@
+---
+layout: default
+order: 8
+---
 # Taille d'image
 
 ## Luna Paint — Image Editor
