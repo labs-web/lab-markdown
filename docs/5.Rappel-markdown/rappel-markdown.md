@@ -3,7 +3,7 @@ layout: default
 chapitre: Rappel markdown
 order: 5
 ---
-# Balises Markdown
+# Markdown
 
 <!-- note -->
 - Titres
