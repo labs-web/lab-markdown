@@ -1,8 +1,12 @@
+---
+layout: default
+order: 10
+---
 # Balises Markdown
 
-## Titres
+### Titres
 
-### Exemple :
+#### Exemple :
 ```
 # Titre de niveau 1
 ## Titre de niveau 2
@@ -13,31 +17,31 @@
 ```
 ---
 
-## Texte en gras
+### Texte en gras
 
-### Exemple :
+#### Exemple :
 
 **Texte en gras**
 
 ---
 
-## Texte en italique
+### Texte en italique
 
-### Exemple :
+#### Exemple :
 
 *Texte en italique*
 
 ---
 
-## Texte barré
+### Texte barré
 
-### Exemple :
+#### Exemple :
 
 ~~Texte barré~~
 
 ---
 
-## Liens
+### Liens
 
 ### Exemple :
 
@@ -45,7 +49,7 @@
 
 ---
 
-## Images
+### Images
 
 ### Exemple :
 
@@ -138,9 +142,9 @@ gh pr create
   
 
 
----
-  ## Footnotes
 
+ ##  Footnotes
+---
 Footnotes allow you to add additional information or references at the bottom of a document.
 
 ### Exemple :
