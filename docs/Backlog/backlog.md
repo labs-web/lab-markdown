@@ -5,7 +5,11 @@ order: 3
 
 ## Backlog 
 
-### Structure des dossiers
+<!-- new slide -->
+
+## Structure des dossiers
+
+<!-- note -->
 
 - docs
     - Index.md
@@ -31,3 +35,5 @@ order: 3
         - Backlog.md
     - rapport.md
     - présentation.html
+
+<!-- new slide -->
