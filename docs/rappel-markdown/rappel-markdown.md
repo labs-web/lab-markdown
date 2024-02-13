@@ -49,11 +49,12 @@
 
 ### Exemple :
 
-![Logo Markdown](/docs/rappel-markdown/images/markdownlogo.png)
+![Logo Markdown](.//images/markdownlogo.png)
+
+Les images peuvent avoir des attributs de style en ligne tels que la largeur et la hauteur:
 
 
-
-![Logo Markdown](/docs/rappel-markdown/images/markdownlogo.png){: width="100" height="100"}
+- ![Logo Markdown](./images/markdownlogo.png){: width="100" height="100"}
 
 
 
