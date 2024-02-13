@@ -5,7 +5,17 @@ order: 8
 
 ## Taille d'image
 
+
+<!-- new slide -->
+
+## Luna Paint — Image Editor
+<!-- note -->
+=======
+
+## Taille d'image
+
 ### Luna Paint — Image Editor
+
 
 Luna Paint is a VS Code extension that lets you edit raster images from within the editor, just open an image from the explorer and start editing like any other file.
 
@@ -15,13 +25,24 @@ Luna Paint is a VS Code extension that lets you edit raster images from within t
   - VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=Tyriar.luna-paint
 
 
+<!-- new slide -->
 
 ### Image Resize And Convert Tools
 
 
-#### Exemple d'images
 
-![Solicode](./images/solicode.jpeg)
+<!-- new slide -->
 
-# Références
-- [Image Resize And Convert Tools](https://marketplace.visualstudio.com/items?itemName=GuusBeltman.ImageTools)
+## Exemple d'images
+
+
+![Solicode](./images/solicode.jpeg){:width="500px" }
+
+<!-- new slide -->
+
+## Références
+
+
+[Image Resize And Convert Tools](https://marketplace.visualstudio.com/items?itemName=GuusBeltman.ImageTools)
+
+<!-- new slide -->
