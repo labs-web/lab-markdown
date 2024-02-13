@@ -1,8 +1,14 @@
-# Balises Markdown
+---
+layout: default
+chapitre: Rappel markdown
+order: 5
+---
+# Markdown
 
-## Titres
+<!-- note -->
+- Titres
 
-### Exemple :
+  - Exemple :
 ```
 # Titre de niveau 1
 ## Titre de niveau 2
@@ -11,99 +17,91 @@
 ##### Titre de niveau 5
 ###### Titre de niveau 6
 ```
----
 
-## Texte en gras
+-  Texte en gras
 
-### Exemple :
+   - Exemple :
 
 **Texte en gras**
 
----
 
-## Texte en italique
 
-### Exemple :
+- Texte en italique
+
+ - Exemple :
 
 *Texte en italique*
 
----
 
-## Texte barré
+-  Texte barré
 
-### Exemple :
+ - Exemple :
 
 ~~Texte barré~~
 
----
 
-## Liens
 
-### Exemple :
+- Liens
+
+ - Exemple :
 
 [Markdown Guide](https://www.markdownguide.org/)
 
----
 
-## Images
 
-### Exemple :
+- Images
 
-![Logo Markdown](.//images/markdownlogo.png)
+ - Exemple :
+
+![Logo Markdown](/lab-markdown/5.Rappel-markdown/images/markdownlogo.png)
 
 Les images peuvent avoir des attributs de style en ligne tels que la largeur et la hauteur:
 
 
-- ![Logo Markdown](./images/markdownlogo.png){: width="100" height="100"}
+- ![Logo Markdown](/lab-markdown/5.Rappel-markdown/images/markdownlogo.png){: width="100" height="100"}
 
 
 
 
 
 
+- Listes non ordonnées
 
-
----
-
-## Listes non ordonnées
-
-### Exemple :
+ -  Exemple :
 
 - Élément 1
 - Élément 2
 - Élément 3
 
----
 
-## Listes ordonnées
 
-### Exemple :
+- Listes ordonnées
+
+  - Exemple :
 
 1. Premier élément
 2. Deuxième élément
 3. Troisième élément
 
----
 
-## Citations
 
-### Exemple :
+-  Citations
+
+    - Exemple :
 
 > Ceci est une citation.
 
----
 
-## Code en ligne
+-  Code en ligne
 
-### Exemple :
+     - Exemple :
 
 Utilisez la balise `<code>` pour afficher du code en ligne.
 
----
 
-## Blocs de code
+-  Blocs de code
 
-### Exemple :
+     - Exemple :
 
 
 ```markdown
@@ -112,41 +110,31 @@ gh pr create
 
 ```
 
+- Tables
 
+  - Exemple :
 
-
----
-
-## Tables
-
-### Exemple :
-
+```table
 | Nom   | Âge | Ville    |
 |-------|-----|----------|
 | Alice | 30  | New York |
 | Bob   | 25  | Paris    |
 | Eve   | 35  | London   |
 
----
+```
 
-## Checkbox
 
-### Exemple :
+-  Checkbox
+
+ -  Exemple :
+   
+```checkbox
 
 - [x] Tâche terminée
 - [ ] Tâche à faire
   
-
-
----
-  ## Footnotes
-
-Footnotes allow you to add additional information or references at the bottom of a document.
-
-### Exemple :
-```markdown
-Here is some text with a footnote[^1].
-
-[^1]: This is the footnote text.
-
 ```
+
+
+
+
