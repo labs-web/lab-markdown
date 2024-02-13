@@ -1,11 +1,10 @@
 ---
 layout: default
-order: 9
+chapitre: Rappel markdown
+order: 5
 ---
 
 # Rappel markdown
-<!-- note -->
-J'ai utilisé cette référence pour récupérer les bases du markdown 
-
+J'ai utilisé cette référence pour récupérer les bases du markdown :
 - [Reference](https://www.markdownguide.org/)
 <!-- new slide -->
