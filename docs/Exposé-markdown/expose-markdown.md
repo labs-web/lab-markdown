@@ -1,3 +1,9 @@
+---
+layout: default
+expose: Exposé design thinking
+order: 4
+---
+
 # Éxposé markdown
 
 ## Plan 

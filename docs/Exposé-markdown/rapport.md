@@ -1,3 +1,9 @@
+---
+layout: default
+expose: Exposé design thinking
+order: 
+---
+
 #   Rapport markdown
 
 ## Introduction 
