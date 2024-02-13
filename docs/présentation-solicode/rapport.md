@@ -1,6 +1,6 @@
 ---
-layout: presentation
-order: 9
+layout: default
+order: 12
 ---
 <!-- new slide -->
 # Présentation solicode
