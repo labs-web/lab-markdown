@@ -4,9 +4,10 @@ order: 10
 ---
 # Balises Markdown
 
-### Titres
+<!-- note -->
+- Titres
 
-#### Exemple :
+  - Exemple :
 ```
 # Titre de niveau 1
 ## Titre de niveau 2
@@ -17,43 +18,42 @@ order: 10
 ```
 ---
 
-### Texte en gras
+-  Texte en gras
 
-#### Exemple :
+   - Exemple :
 
 **Texte en gras**
 
 ---
 
-### Texte en italique
+- Texte en italique
 
-#### Exemple :
+ - Exemple :
 
 *Texte en italique*
 
 ---
+-  Texte barré
 
-### Texte barré
-
-#### Exemple :
+ - Exemple :
 
 ~~Texte barré~~
 
 ---
 
-### Liens
+- Liens
 
-### Exemple :
+ - Exemple :
 
 [Markdown Guide](https://www.markdownguide.org/)
 
 ---
 
-### Images
+- Images
 
-### Exemple :
+ - Exemple :
 
-![Logo Markdown](.//images/markdownlogo.png)
+![Logo Markdown](./images/markdownlogo.png)
 
 Les images peuvent avoir des attributs de style en ligne tels que la largeur et la hauteur:
 
@@ -69,9 +69,9 @@ Les images peuvent avoir des attributs de style en ligne tels que la largeur et 
 
 ---
 
-## Listes non ordonnées
+- Listes non ordonnées
 
-### Exemple :
+ -  Exemple :
 
 - Élément 1
 - Élément 2
@@ -79,9 +79,9 @@ Les images peuvent avoir des attributs de style en ligne tels que la largeur et 
 
 ---
 
-## Listes ordonnées
+- Listes ordonnées
 
-### Exemple :
+  - Exemple :
 
 1. Premier élément
 2. Deuxième élément
@@ -89,25 +89,24 @@ Les images peuvent avoir des attributs de style en ligne tels que la largeur et 
 
 ---
 
-## Citations
+-  Citations
 
-### Exemple :
+    - Exemple :
 
 > Ceci est une citation.
 
 ---
 
-## Code en ligne
+-  Code en ligne
 
-### Exemple :
+     - Exemple :
 
 Utilisez la balise `<code>` pour afficher du code en ligne.
 
 ---
+-  Blocs de code
 
-## Blocs de code
-
-### Exemple :
+     - Exemple :
 
 
 ```markdown
@@ -121,9 +120,9 @@ gh pr create
 
 ---
 
-## Tables
+- Tables
 
-### Exemple :
+  - Exemple :
 
 | Nom   | Âge | Ville    |
 |-------|-----|----------|
@@ -133,24 +132,15 @@ gh pr create
 
 ---
 
-## Checkbox
+-  Checkbox
 
-### Exemple :
+ -  Exemple :
 
 - [x] Tâche terminée
 - [ ] Tâche à faire
   
 
 
-
- ##  Footnotes
 ---
-Footnotes allow you to add additional information or references at the bottom of a document.
 
-### Exemple :
-```markdown
-Here is some text with a footnote[^1].
 
-[^1]: This is the footnote text.
-
-```
