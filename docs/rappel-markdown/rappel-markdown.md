@@ -63,10 +63,6 @@ Les images peuvent avoir des attributs de style en ligne tels que la largeur et 
 
 
 
-
-
-
-
 ---
 
 - Listes non ordonnées
