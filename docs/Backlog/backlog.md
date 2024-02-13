@@ -6,7 +6,7 @@ order: 3
 ## Backlog 
 
 ### Structure des dossiers
-![Structure]({{site.baseurl}}/Backlog/images/image.png)
+
 <!-- note -->
 - docs
     - Index.md
