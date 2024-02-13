@@ -1,13 +1,11 @@
 ---
 layout: default
-expose: Exposé design thinking
-order: 4
+chapitre: Éxposé markdown
+order: 3
 ---
 
 # Éxposé markdown
-
 ## Plan 
-
 ## Introduction
 ![Exposé Markdown](/lab-markdown/Exposé-markdown/images/Introduction.png)
 

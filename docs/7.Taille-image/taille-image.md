@@ -1,11 +1,10 @@
 ---
 layout: default
-order: 8
+chapitre: Taille d'image
+order: 7
 ---
 
-## Taille d'image
-
-
+# Taille d'image
 <!-- new slide -->
 
 ## Luna Paint — Image Editor
