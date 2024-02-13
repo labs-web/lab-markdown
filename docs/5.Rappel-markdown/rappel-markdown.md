@@ -6,7 +6,7 @@ order: 5
 # Markdown
 
 <!-- note -->
-- Titres
+##  Titres
 
   - Exemple :
 ```
@@ -18,7 +18,7 @@ order: 5
 ###### Titre de niveau 6
 ```
 
--  Texte en gras
+## Texte en gras
 
    - Exemple :
 
@@ -26,14 +26,14 @@ order: 5
 
 
 
-- Texte en italique
+## Texte en italique
 
  - Exemple :
 
 *Texte en italique*
 
 
--  Texte barré
+## Texte barré
 
  - Exemple :
 
@@ -41,22 +41,28 @@ order: 5
 
 
 
-- Liens
+## Liens
 
  - Exemple :
 
 [Markdown Guide](https://www.markdownguide.org/)
 
 
-
-- Images
+## Images
 
  - Exemple :
+  ```bash
+![alt](/lab-markdown/5.Rappel-markdown/images/markdownlogo.png)
+  ```
 
 ![Logo Markdown](/lab-markdown/5.Rappel-markdown/images/markdownlogo.png)
 
 Les images peuvent avoir des attributs de style en ligne tels que la largeur et la hauteur:
 
+  ```bash
+![Alt](/lab-markdown/5.Rappel-markdown/images/markdownlogo.png){: width="100" height="100"}
+
+  ```
 
 - ![Logo Markdown](/lab-markdown/5.Rappel-markdown/images/markdownlogo.png){: width="100" height="100"}
 
@@ -65,7 +71,7 @@ Les images peuvent avoir des attributs de style en ligne tels que la largeur et 
 
 
 
-- Listes non ordonnées
+## Listes non ordonnées
 
  -  Exemple :
 
@@ -75,7 +81,7 @@ Les images peuvent avoir des attributs de style en ligne tels que la largeur et 
 
 
 
-- Listes ordonnées
+## Listes ordonnées
 
   - Exemple :
 
@@ -85,21 +91,21 @@ Les images peuvent avoir des attributs de style en ligne tels que la largeur et 
 
 
 
--  Citations
+## Citations
 
     - Exemple :
 
 > Ceci est une citation.
 
 
--  Code en ligne
+## Code en ligne
 
      - Exemple :
 
 Utilisez la balise `<code>` pour afficher du code en ligne.
 
 
--  Blocs de code
+## Blocs de code
 
      - Exemple :
 
@@ -110,7 +116,7 @@ gh pr create
 
 ```
 
-- Tables
+## Tables
 
   - Exemple :
 
@@ -124,7 +130,7 @@ gh pr create
 ```
 
 
--  Checkbox
+## Checkbox
 
  -  Exemple :
    
