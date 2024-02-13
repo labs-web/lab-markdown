@@ -1,6 +1,7 @@
 ---
 layout: default
-order: 10
+chapitre: Rappel markdown
+order: 5
 ---
 # Balises Markdown
 
@@ -52,12 +53,12 @@ order: 10
 
  - Exemple :
 
-![Logo Markdown](./images/markdownlogo.png)
+![Logo Markdown](/lab-markdown/5.Rappel-markdown/images/markdownlogo.png)
 
 Les images peuvent avoir des attributs de style en ligne tels que la largeur et la hauteur:
 
 
-- ![Logo Markdown](./images/markdownlogo.png){: width="100" height="100"}
+- ![Logo Markdown](/lab-markdown/5.Rappel-markdown/images/markdownlogo.png){: width="100" height="100"}
 
 
 
