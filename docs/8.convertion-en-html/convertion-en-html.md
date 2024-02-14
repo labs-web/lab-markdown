@@ -9,12 +9,12 @@ order: 8
 
 <!-- note -->
 Pandoc est un outil polyvalent en ligne de commande permettant de convertir entre différents formats de document. Il prend en charge une large gamme de formats d'entrée et de sortie, notamment Markdown, HTML, LaTeX, PDF, DOCX, et bien d'autres..
-# Command
+## Command
 
 ```bash
 pandoc présentation-solicode.md -f markdown -t html -s -o convertion-en-html.html
 ```
-# Outil 
+## Outil 
 [Pandoc]()
 
 ## Livrables
