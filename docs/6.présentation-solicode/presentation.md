@@ -1,6 +1,6 @@
 ---
 layout: presentation
-order: 12
+order: 6
 ---
 # Présentation solicode
 <!-- new slide -->
@@ -14,7 +14,7 @@ order: 12
 # Introduction
 
 ## Solicode Tanger
-![Solicode](/lab-markdown/présentation-solicode/images/solicode.jpg)
+![Solicode](/lab-markdown/6.présentation-solicode/images/solicode.jpg)
 <!-- new slide -->
 # À propos de solicode
 ## Solicode Tanger
@@ -36,8 +36,11 @@ SOLICODE est un centre de formation pour les jeunes âgés de 18 à 34 ans spéc
 <!-- new slide -->
 # Conclusion
 
-![Conclusion](/lab-markdown/présentation-solicode.md/images/conclusion.png)
+![Conclusion](/lab-markdown/6.présentation-solicode.md/images/conclusion.png)
 <!-- new slide -->
 # Livrables
 
-- docs/présentation-solicode/présentation-solicode.md
+- docs/6.présentation-solicode/images
+- docs/6.présentation-solicode/présentation-solicode.md
+- docs/6.présentation-solicode/presentation.md
+- docs/6.présentation-solicode/rapport.md
