@@ -29,7 +29,7 @@ Pandoc est un outil polyvalent en ligne de commande permettant de convertir entr
 
 ![Conclusion](/lab-markdown/8.convertion-en-html/images/conclusion.png)
 <!-- new slide -->
-# Livrables
+## Livrables
 
 - docs/8.convertion-en-html/convertion-en-html.md
 - docs/8.convertion-en-html/images
