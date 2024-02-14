@@ -1,21 +1,20 @@
 ---
 layout: default
-order: 8
+chapitre: Taille d'image
+order: 7
 ---
 
-## Taille d'image
-
-
+# Taille d'image
 <!-- new slide -->
 
 ## Luna Paint — Image Editor
 <!-- note -->
-=======
 
 ## Taille d'image
 
 ### Luna Paint — Image Editor
 
+<!-- note -->
 
 Luna Paint is a VS Code extension that lets you edit raster images from within the editor, just open an image from the explorer and start editing like any other file.
 

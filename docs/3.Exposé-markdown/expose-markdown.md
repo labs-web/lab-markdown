@@ -5,9 +5,7 @@ order: 4
 ---
 
 # Éxposé markdown
-
 ## Plan 
-
 ## Introduction
 ![Exposé Markdown](/lab-markdown/Exposé-markdown/images/Introduction.png)
 
