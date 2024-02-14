@@ -1,14 +1,14 @@
 ---
 layout: default
-expose: Exposé design thinking
-order: 
+chapitre: Exposé lab markdown
+order: 8
 ---
 
 # Rapport markdown
 
 ## Introduction 
 
-![Exposé Markdown](/lab-markdown/Exposé-markdown/images/Introduction.png)
+![Exposé Markdown](/lab-markdown/3.Exposé-markdown/images/Introduction.png)
 
 Markdown est un langage facile à lire et à écrire pour formater du texte brut. Vous pouvez utiliser la syntaxe Markdown, ainsi que certaines balises HTML supplémentaires, pour formater votre écriture sur GitHub, dans des endroits tels que les README du référentiel et les commentaires sur les demandes d'extraction et les problèmes. 
 
@@ -22,7 +22,7 @@ Pour créer un titre, ajoutez un à six symboles # avant le texte de votre titre
 
 
 
-![Exposé Markdown](/lab-markdown/Exposé-markdown/images/En_tetes.png)
+![Exposé Markdown](/lab-markdown/3.Exposé-markdown/images/En_tetes.png)
 
 
 
@@ -31,7 +31,7 @@ Pour créer un titre, ajoutez un à six symboles # avant le texte de votre titre
 
 Vous pouvez indiquer l'importance d'un texte en gras, en italique, en barré, en indice ou en superscript dans les champs de commentaires et les fichiers .md.
 
-![Exposé Markdown](/lab-markdown/Exposé-markdown/images/Font.png)
+![Exposé Markdown](/lab-markdown/3.Exposé-markdown/images/Font.png)
 
 ````
 git
@@ -61,7 +61,7 @@ _You **can** combine them_<br>
 
 ### Lists
 
-![Exposé Markdown](/lab-markdown/Exposé-markdown/images/List.png)
+![Exposé Markdown](/lab-markdown/3.Exposé-markdown/images/List.png)
 
 Vous pouvez créer une liste non triée en faisant précéder une ou plusieurs lignes de texte de -, * ou +.
 
@@ -90,7 +90,7 @@ Pour trier votre liste, faites précéder chaque ligne d'un nombre.
 
 ### Tables
 
-![Exposé Markdown](/lab-markdown/Exposé-markdown/images/Table.jpg)
+![Exposé Markdown](/lab-markdown/3.Exposé-markdown/images/Table.jpg)
 
 ````
 |Header1|Header2|Header3|
@@ -108,7 +108,7 @@ Pour trier votre liste, faites précéder chaque ligne d'un nombre.
 
 
 ### CheckBox
-![Exposé Markdown](/lab-markdown/Exposé-markdown/images/Checkbox.png)
+![Exposé Markdown](/lab-markdown/3.Exposé-markdown/images/Checkbox.png)
 
 Vous pouvez utiliser cette syntaxe dans le ticket de GitHub pour cocher ou décocher la case en temps réel sans avoir à modifier la version originale du ticket.
 
@@ -132,7 +132,7 @@ Vous pouvez utiliser cette syntaxe dans le ticket de GitHub pour cocher ou déco
 
 
 ### Quoting Text
-![Exposé Markdown](/lab-markdown/Exposé-markdown/images/Quoting.png)
+![Exposé Markdown](/lab-markdown/3.Exposé-markdown/images/Quoting.png)
 
 ````
 > This is a block quoted text
