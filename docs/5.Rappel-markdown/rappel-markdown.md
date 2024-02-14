@@ -3,16 +3,18 @@ layout: default
 chapitre: Rappel markdown
 order: 5
 ---
-# Rappel  Markdown
 
+# Rappel Markdown
+
+<!-- note -->
 ## Introduction
 
-<!-- note -->
 Nous passerons en revue les balises Markdown, un langage léger utilisé pour formater du texte de manière simple et lisible. Nous fournirons un rappel des différentes balises disponibles ainsi qu'un exemple pour chacune d'elles. Que vous soyez débutant ou que vous souhaitiez simplement rafraîchir vos connaissances, ce laboratoire vous aidera à maîtriser Markdown pour améliorer la présentation de vos documents .
 
-![Logo Markdown](/lab-markdown/5.Rappel-markdown/images/Markdown-mark.png){: width="400px" }*Figure 3: Logo de markdown*
+![Logo Markdown](/lab-markdown/5.Rappel-markdown/images/Markdown-mark.png){: width="400px" }*Figure 4: Logo de markdown*
 
-<!-- note -->
+
+
 ##  Titres
   - Exemple :
   ```bash
@@ -66,7 +68,7 @@ Nous passerons en revue les balises Markdown, un langage léger utilisé pour fo
 
   ```
 
-![Logo Markdown](/lab-markdown/5.Rappel-markdown/images/markdownlogo.png)*Figure 4: Exemple de image en markdown*
+![Logo Markdown](/lab-markdown/5.Rappel-markdown/images/markdownlogo.png)*Figure 5: Exemple de image en markdown*
 
 
 Les images peuvent avoir des attributs de style en ligne tels que la largeur et la hauteur:
@@ -77,7 +79,7 @@ Les images peuvent avoir des attributs de style en ligne tels que la largeur et 
 
   ```
 
-  ![Logo Markdown](/lab-markdown/5.Rappel-markdown/images/markdownlogo.png){: width="100" height="100"}*Figure 5: Exemple de resize image en markdown*
+  ![Logo Markdown](/lab-markdown/5.Rappel-markdown/images/markdownlogo.png){: width="100" height="100"}*Figure 6: Exemple de resize image en markdown*
 
 
 ## Listes non ordonnées 
@@ -146,6 +148,7 @@ Les images peuvent avoir des attributs de style en ligne tels que la largeur et 
     - [x] Tâche terminée
     - [ ] Tâche à faire 
   ```
+<!-- new slide -->
 
 
 
