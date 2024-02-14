@@ -10,7 +10,7 @@ SOLICODE est un centre de formation pour les jeunes âgés de 18 à 34 ans spéc
 ![Solicode](/lab-markdown/6.présentation-solicode/images/solicode.jpg)
 *solicode tanger*
 
-# Livrables
+## Livrables
 
 - [Rapport](/lab-markdown/6.présentation-solicode/rapport.html)
 - [Presentation](/lab-markdown/6.présentation-solicode/presentation.html)
