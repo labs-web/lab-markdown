@@ -1,7 +1,7 @@
 ---
 layout: default
 chapitre: prsentation solicode
-order: 12
+order: 6
 ---
 
 # Présentation de solicode en Markdown
@@ -15,4 +15,7 @@ SOLICODE est un centre de formation pour les jeunes âgés de 18 à 34 ans spéc
 - [Rapport](/lab-markdown/6.présentation-solicode/rapport.html)
 - [Presentation](/lab-markdown/6.présentation-solicode/presentation.html)
 
+- docs/6.présentation-solicode/images
 - docs/6.présentation-solicode/présentation-solicode.md
+- docs/6.présentation-solicode/presentation.md
+- docs/6.présentation-solicode/rapport.md
