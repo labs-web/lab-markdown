@@ -11,12 +11,13 @@ order: 7
 
 <!-- note -->
 
-Luna Paint is a VS Code extension that lets you edit raster images from within the editor, just open an image from the explorer and start editing like any other file.
+Luna Paint est une extension VS Code qui vous permet de modifier des images raster depuis l'éditeur, ouvrez simplement une image depuis l'explorateur et commencez à la modifier comme n'importe quel autre fichier.
 
-- Name: Luna Paint — Image Editor
+
+- Nom: Luna Paint — Image Editor
   - Id: Tyriar.luna-paint
-  - Description: Edit images in VS Code! Supports png, jpg, webp, bmp, tga and ico formats.
-  - VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=Tyriar.luna-paint
+  - Description: Modifiez les images dans VS Code ! Prend en charge les formats png, jpg, webp, bmp, tga et ico.
+  - VS Marketplace Lien : https://marketplace.visualstudio.com/items?itemName=Tyriar.luna-paint
 
 <!-- new slide -->
 
