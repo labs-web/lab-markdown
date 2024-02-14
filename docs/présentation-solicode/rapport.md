@@ -15,6 +15,7 @@ order: 12
 
 ## Solicode Tanger
 ![Solicode](/lab-markdown/présentation-solicode/images/solicode.jpg)
+*solicode tanger*
 <!-- new slide -->
 # À propos de solicode
 ## Solicode Tanger
