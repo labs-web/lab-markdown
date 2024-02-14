@@ -4,7 +4,7 @@ chapitre: Exposé lab markdown
 order: 9
 ---
 
-# Présentation
+# Éxposer markdown
 <!-- new slide -->
 
 ## Introduction
