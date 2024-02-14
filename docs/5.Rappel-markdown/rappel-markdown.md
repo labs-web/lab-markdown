@@ -10,43 +10,38 @@ order: 5
 <!-- note -->
 Nous passerons en revue les balises Markdown, un langage léger utilisé pour formater du texte de manière simple et lisible. Nous fournirons un rappel des différentes balises disponibles ainsi qu'un exemple pour chacune d'elles. Que vous soyez débutant ou que vous souhaitiez simplement rafraîchir vos connaissances, ce laboratoire vous aidera à maîtriser Markdown pour améliorer la présentation de vos documents .
 
-![Logo Markdown](/lab-markdown/5.Rappel-markdown/images/Markdown-mark.png){: width="400px" }*figure 1: Introduction*
+![Logo Markdown](/lab-markdown/5.Rappel-markdown/images/Markdown-mark.png){: width="400px" }*Figure 3: Logo de markdown*
 
 <!-- note -->
 ##  Titres
-
   - Exemple :
-```
-# Titre de niveau 1
-## Titre de niveau 2
-### Titre de niveau 3
-#### Titre de niveau 4
-##### Titre de niveau 5
-###### Titre de niveau 6
-```
+  ```bash
+    # Titre de niveau 1
+    ## Titre de niveau 2
+    ### Titre de niveau 3
+    #### Titre de niveau 4
+    ##### Titre de niveau 5
+    ###### Titre de niveau 6
+  ```
 
 ## Texte en gras
-
-   - Exemple :
-
-**Texte en gras**
-
-
+  - Exemple :
+  ```bash
+    **Texte en gras**
+  ```
 
 ## Texte en italique
-
  - Exemple :
-
-*Texte en italique*
-
+  ```bash
+    *Texte en italique*
+  ```
 
 ## Texte barré
 
  - Exemple :
-
-~~Texte barré~~
-
-
+  ```bash
+    ~~Texte barré~~
+  ```
 
 ## Liens
 
@@ -71,31 +66,29 @@ Nous passerons en revue les balises Markdown, un langage léger utilisé pour fo
 
   ```
 
-![Logo Markdown](/lab-markdown/5.Rappel-markdown/images/markdownlogo.png)*figure 2: exemple de image en markdown*
+![Logo Markdown](/lab-markdown/5.Rappel-markdown/images/markdownlogo.png)*Figure 4: Exemple de image en markdown*
 
 
 Les images peuvent avoir des attributs de style en ligne tels que la largeur et la hauteur:
 
   ```bash
 
-![Alt](/lab-markdown/5.Rappel-markdown/images/markdownlogo.png){: width="100" height="100"}
+  ![Alt](/lab-markdown/5.Rappel-markdown/images/markdownlogo.png){: width="100" height="100"}
 
   ```
 
-  ![Logo Markdown](/lab-markdown/5.Rappel-markdown/images/markdownlogo.png){: width="100" height="100"}*figure 3: exemple de resize image en markdown*
-
-
-
-
+  ![Logo Markdown](/lab-markdown/5.Rappel-markdown/images/markdownlogo.png){: width="100" height="100"}*Figure 5: Exemple de resize image en markdown*
 
 
 ## Listes non ordonnées 
 
  -  Exemple :
 
-- Élément 1
-- Élément 2
-- Élément 3
+  ```bash
+    - Élément 1
+    - Élément 2
+    - Élément 3
+  ```
 
 
 
@@ -103,64 +96,56 @@ Les images peuvent avoir des attributs de style en ligne tels que la largeur et 
 
   - Exemple :
 
-1. Premier élément
-2. Deuxième élément
-3. Troisième élément
-
-
+  ```bash
+    1. Premier élément
+    2. Deuxième élément
+    3. Troisième élément
+  ```
 
 ## Citations
 
   - Exemple :
   
   ```bash
-
-> Ceci est une citation
-
-```
+    > Ceci est une citation
+  ```
 
 ## Code en ligne
 
   - Exemple :
-
-Utilisez la balise `<code>` pour afficher du code en ligne.
+    ```bash
+      Utilisez la balise `<code>` pour afficher du code en ligne.
+    ```
 
 
 ## Blocs de code
 
   - Exemple :
-
-
-```markdown
-
-gh pr create 
-
-```
+  ```bash
+    gh pr create 
+  ```
 
 ## Tables
 
   - Exemple :
 
-```table
-| Nom   | Âge | Ville    |
-|-------|-----|----------|
-| Alice | 30  | New York |
-| Bob   | 25  | Paris    |
-| Eve   | 35  | London   |
-
-```
+  ```bash
+    | Nom   | Âge | Ville    |
+    |-------|-----|----------|
+    | Alice | 30  | New York |
+    | Bob   | 25  | Paris    |
+    | Eve   | 35  | London   |
+  ```
 
 
 ## Checkbox
 
  -  Exemple :
    
-```checkbox
-
-- [x] Tâche terminée
-- [ ] Tâche à faire
-  
-```
+  ```bash
+    - [x] Tâche terminée
+    - [ ] Tâche à faire 
+  ```
 
 
 

@@ -17,17 +17,15 @@ Luna Paint est une extension VS Code qui vous permet de modifier des images rast
 - Nom: Luna Paint — Image Editor
   - Id: Tyriar.luna-paint
   - Description: Modifiez les images dans VS Code ! Prend en charge les formats png, jpg, webp, bmp, tga et ico.
-  - VS Marketplace Lien : https://marketplace.visualstudio.com/items?itemName=Tyriar.luna-paint
+  - VS marketplace lien : https://marketplace.visualstudio.com/items?itemName=Tyriar.luna-paint
 
 <!-- new slide -->
 
 ## Example d'image en utilisant kramdown
 
-
-
-```bash
-![Solicode](./images/solicode.jpeg){:width="500px" }
-```
+  ```bash
+    ![Solicode](./images/solicode.jpeg){:width="500px" }
+  ```
 
 
 
