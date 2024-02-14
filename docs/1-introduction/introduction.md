@@ -5,6 +5,6 @@ order: 1
 ---
 
 # Introduction
-![Introduction](./images/introduction.png){:width="500px" }
+![Introduction](./images/introduction.png){:width="30%" }
 *Figure 1: Les apprenants de solicode*
 <!-- new slide -->
