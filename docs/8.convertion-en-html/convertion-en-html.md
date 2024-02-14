@@ -21,8 +21,3 @@ pandoc présentation-solicode.md -f markdown -t html -s -o convertion-en-html.ht
 
 - [Rapport](/lab-markdown/8.convertion-en-html/rapport.html)
 - [Presentation](/lab-markdown/8.convertion-en-html/presentation.html)
-
-- docs/8.convertion-en-html/images
-- docs/8.convertion-en-html/convertion-en-html.md
-- docs/8.convertion-en-html/presentation.md
-- docs/8.convertion-en-html/rapport.md
