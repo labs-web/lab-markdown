@@ -1,7 +1,6 @@
 ---
 layout: presentation
-chapitre: Exposé lab markdown
-order: 9
+order: 1
 ---
 
 # Éxposer markdown
