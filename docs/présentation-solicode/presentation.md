@@ -4,17 +4,17 @@ order: 12
 ---
 # Présentation solicode
 <!-- new slide -->
-# Plan
-## Introduction
-## À propos de solicode
-## Activités
-## Réseaux sociaux
-## Conclusion
+## Plan
+- Introduction
+- À propos de solicode
+- Activités
+- Réseaux sociaux
+- Conclusion
 <!-- new slide -->
 # Introduction
 
 ## Solicode Tanger
-![Solicode](/lab-markdown/présentation-solicode.md/images/solicode.jpg)
+![Solicode](/lab-markdown/présentation-solicode/images/solicode.jpg)
 <!-- new slide -->
 # À propos de solicode
 ## Solicode Tanger
