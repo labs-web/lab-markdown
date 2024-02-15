@@ -5,11 +5,20 @@ order: 6
 <!-- new slide -->
 # Présentation solicode
 ## Plan
-### Introduction
-### À propos de solicode
-### Activités
-### Réseaux sociaux
-### Conclusion
+
+- [Présentation solicode](#présentation-solicode)
+  - [Plan](#plan)
+- [Introduction](#introduction)
+  - [Solicode Tanger](#solicode-tanger)
+- [À propos de solicode](#à-propos-de-solicode)
+  - [Solicode Tanger](#solicode-tanger-1)
+- [Activités](#activités)
+  - [type des activiteés](#type-des-activiteés)
+- [Réseaux sociaux](#réseaux-sociaux)
+  - [les compte sociaux](#les-compte-sociaux)
+- [Conclusion](#conclusion)
+
+
 <!-- new slide -->
 # Introduction
 
@@ -37,11 +46,5 @@ SOLICODE est un centre de formation pour les jeunes âgés de 18 à 34 ans spéc
 <!-- new slide -->
 # Conclusion
 
-![Conclusion](/lab-markdown/6.présentation-solicode.md/images/conclusion.png)
+![Conclusion](/lab-markdown/6.présentation-solicode/images/conclusion.png)
 <!-- new slide -->
-# Livrables
-
-- docs/6.présentation-solicode/images
-- docs/6.présentation-solicode/présentation-solicode.md
-- docs/6.présentation-solicode/presentation.md
-- docs/6.présentation-solicode/rapport.md
