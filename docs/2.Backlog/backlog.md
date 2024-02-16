@@ -5,12 +5,14 @@ order: 2
 ---
 
 # Backlog
-![Structure des dossiers](/lab-markdown/2.Backlog/images/Structure-des-dossiers.jpg){:width="500px" }
 
 <!-- new slide -->
 
 
 ## Structure des dossiers
+![Structure des dossiers](/lab-markdown/2.Backlog/images/Structure-des-dossiers.jpg)
+
+
 <!-- note -->
 - docs
     - Index.md
