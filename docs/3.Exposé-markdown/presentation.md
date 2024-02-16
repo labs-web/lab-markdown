@@ -1,44 +1,45 @@
 ---
 layout: presentation
-chapitre: Exposé lab markdown
-order: 9
+order: 1
 ---
 
-# Présentation
+# Éxposer markdown
 <!-- new slide -->
 
 ## Introduction
-![Exposé Markdown](/lab-markdown/3.Exposé-markdown/images/Introduction.png)
+![Exposé Markdown](/lab-markdown/3.Exposé-markdown/images/Introduction.png){:width="50%" }
 
 <!-- new slide -->
-## Syntaxe de base pour l'écriture et la mise en forme
-### En-têtes
-![Exposé Markdown](/lab-markdown/3.Exposé-markdown/images/En_tetes.png)
+
+## En-têtes
+![Exposé Markdown](/lab-markdown/3.Exposé-markdown/images/En_tetes.png){:width="50%" }
 
 <!-- new slide -->
-## Syntaxe de base pour l'écriture et la mise en forme
-### Style du texte
-![Exposé Markdown](/lab-markdown/3.Exposé-markdown/images/Font.png)
+
+## Style du texte
+![Exposé Markdown](/lab-markdown/3.Exposé-markdown/images/Font.png){:width="48%" }
 
 <!-- new slide -->
-## Syntaxe de base pour l'écriture et la mise en forme
-### Lists
-![Exposé Markdown](/lab-markdown/3.Exposé-markdown/images/List.png)
+
+## Lists
+![Exposé Markdown](/lab-markdown/3.Exposé-markdown/images/List.png){:width="80%" }
 
 <!-- new slide -->
-## Syntaxe de base pour l'écriture et la mise en forme
-### Tables
+
+## Tables
 ![Exposé Markdown](/lab-markdown/3.Exposé-markdown/images/Table.jpg)
 
 <!-- new slide -->
-## Syntaxe de base pour l'écriture et la mise en forme
-### CheckBox
+
+## CheckBox
 ![Exposé Markdown](/lab-markdown/3.Exposé-markdown/images/Checkbox.png)
 
 <!-- new slide -->
-## Syntaxe de base pour l'écriture et la mise en forme
-### Quoting Text
+
+## Quoting Text
 ![Exposé Markdown](/lab-markdown/3.Exposé-markdown/images/Quoting.png)
 <!-- new slide -->
 
 # Conclusion
+
+![Exposé Markdown](/lab-markdown/3.Exposé-markdown/images/Conclusion.jpg){:width="50%" }
