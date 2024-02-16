@@ -1,21 +1,22 @@
 ---
 layout: default
-chapitre: outil de convertion md en html
+chapitre: Outil de conversion de Markdown en HTML
 order: 8
 ---
-# Outil de convertion md en html
-![Pandoc](/lab-markdown/8.convertion-en-html/images/pandoc.png)
-*figure: Pandoc*
+# Outil de conversion de Markdown en HTML
+
+![Pandoc](/lab-markdown\8.convertion-en-html\images\pandoc.png){: width="500px"}
+*Figure: Pandoc*
 
 <!-- note -->
 Pandoc est un outil polyvalent en ligne de commande permettant de convertir entre différents formats de document. Il prend en charge une large gamme de formats d'entrée et de sortie, notamment Markdown, HTML, LaTeX, PDF, DOCX, et bien d'autres..
 ## Command
 
 ```bash
-pandoc présentation-solicode.md -f markdown -t html -s -o convertion-en-html.html
+pandoc presentation.md -f markdown -t html -s -o présentation.html
 ```
 ## Outil 
-[Pandoc]()
+[Pandoc](https://github.com/jgm/pandoc/releases/tag/3.1.12)
 
 ## Livrables
 
