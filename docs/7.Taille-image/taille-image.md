@@ -7,7 +7,7 @@ order: 7
 # Taille d'image 
 
 ![Luna Paint](./images/demo.png){:width="500px" }
-*Luna paint*
+*Figure: Luna paint*
 
 <!-- new slide -->
 
