@@ -30,7 +30,7 @@ Luna Paint est une extension VS Code qui vous permet de modifier des images rast
 
 
 ```bash
-![Solicode](./images/solicode.jpeg){:width="500px" }
+![Solicode](./images/solicode.jpeg){:width="500px"}
 ```
 
 
