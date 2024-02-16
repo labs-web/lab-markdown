@@ -9,7 +9,7 @@ Nous passerons en revue les balises Markdown, un langage léger utilisé pour fo
 
 ## Lien de Rapport
 
-[http://127.0.0.1:4000/lab-markdown/5.Rappel-markdown/rapport.html](/lab-markdown/5.Rappel-markdown/rapport.html)
+- [https://labs-web.github.io/lab-markdown/5.Rappel-markdown/rapport.html](/lab-markdown/5.Rappel-markdown/rapport.html)
 
 ## Référence
 

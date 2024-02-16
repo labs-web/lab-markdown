@@ -13,10 +13,10 @@ Markdown est un langage facile à lire et à écrire pour formater du texte brut
 
 ## Lien de Présentation
 
-- [Présentation exposé Markdown](/lab-markdown/3.Exposé-markdown/presentation.html)  
+- [https://labs-web.github.io/lab-markdown/3.Exposé-markdown/presentation.html)](/lab-markdown/3.Exposé-markdown/presentation.html)  
  
-- ``https://labs-web.github.io/lab-markdown/3.Exposé-markdown/presentation.html/`` 
+
 
 ## Lien de Rapport
-[Rapport exposé Markdown](/lab-markdown/3.Exposé-markdown/rapport.html)
+- [https://labs-web.github.io/lab-markdown/3.Exposé-markdown/rapport.html](/lab-markdown/3.Exposé-markdown/rapport.html)
 
