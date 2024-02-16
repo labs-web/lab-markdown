@@ -5,6 +5,10 @@ order: 7
 ---
 
 # Taille d'image 
+
+![Luna Paint](./images/demo.png){:width="500px" }
+*Luna paint*
+
 <!-- new slide -->
 
 ## Luna Paint — Image Editor
