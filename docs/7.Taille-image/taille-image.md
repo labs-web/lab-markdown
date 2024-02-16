@@ -10,11 +10,14 @@ order: 7
 <!-- note -->
 ## Luna Paint — Image Editor
 
-![Luna Paint](./images/demo.png){:width="500px" }
-*Figure: Luna paint*
+![Luna Paint](/lab-markdown/7.Taille-image/images/demo.png)
+
+*Figure 7: taille image*
+
+
+
 
 <!-- note -->
-
 Luna Paint est une extension VS Code qui vous permet de modifier des images raster depuis l'éditeur, ouvrez simplement une image depuis l'explorateur et commencez à la modifier comme n'importe quel autre fichier.
 
 

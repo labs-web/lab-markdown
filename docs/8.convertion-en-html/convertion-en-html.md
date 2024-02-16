@@ -19,11 +19,10 @@ pandoc présentation-solicode.md -f markdown -t html -s -o convertion-en-html.ht
 
 ## Livrables
 
-- [Rapport](/lab-markdown/8.convertion-en-html/rapport.html)
+- le lien de rapport
+- [https://labs-web.github.io/lab-markdown/8.convertion-en-html/rapport.html](/lab-markdown/8.convertion-en-html/rapport.html)
 
-- ``https://labs-web.github.io/lab-markdown/8.convertion-en-html/rapport.html``
+- le lien de presentation
 
-- [Presentation](/lab-markdown/8.convertion-en-html/presentation.html)
-
-- ``https://labs-web.github.io/lab-markdown/8.convertion-en-html/presentation.html``
+- [https://labs-web.github.io/lab-markdown/8.convertion-en-html/presentation.html](/lab-markdown/8.convertion-en-html/presentation.html)
 
