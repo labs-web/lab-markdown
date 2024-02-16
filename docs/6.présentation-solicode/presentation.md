@@ -10,13 +10,16 @@ order: 6
 ## Plan
 
 - Introduction
-- À propos de solicode
 - Activités
+- À propos de nous
 - Réseaux sociaux
 - Conclusion
+
 <!-- new slide -->
 
 # Introduction
+
+<!-- new slide -->
 
 ## Solicode Tanger
 
@@ -46,9 +49,8 @@ SOLICODE est un centre de formation pour les jeunes âgés de 18 à 34 ans spéc
 
 ## les compte sociaux
 
-- Instagram
-- Facebook
-- Linkedin
+# À propos
+
 <!-- new slide -->
 
 # Conclusion
