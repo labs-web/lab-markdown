@@ -7,7 +7,7 @@ order: 6
 # Présentation de solicode en Markdown
 
 ![Solicode](/lab-markdown/6.présentation-solicode/images/solicode.jpg)
-*Figure 7: Solicode tanger*
+*Figure 8: Solicode tanger*
 
 
 <!-- note -->

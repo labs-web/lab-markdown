@@ -12,7 +12,7 @@ order: 7
 
 ![Luna Paint](/lab-markdown/7.Taille-image/images/demo.png)
 
-*Figure 7: taille image*
+*Figure 9: taille image*
 
 
 

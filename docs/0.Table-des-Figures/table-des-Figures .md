@@ -15,9 +15,11 @@ order: 0
 - figure 4 : [Logo de markdown](#rappel-markdown)
 - figure 5 : [Exemple de image en markdown](#images)
 - figure 6 : [Exemple de resize image en markdown](#images)
+  
 - figure 7 : [Solicode tanger](#présentation-de-solicode-en-markdown)
-- figure 8 : [Pandoc](#outil-de-convertion-md-en-html)
-- figure 9 : [Conclusion](#conclusion)
+- figure 8 : [taille image](#taille-dimage)
+- figure 9 : [Pandoc](#outil-de-convertion-md-en-html)
+- figure 10 : [Conclusion](#conclusion)
 
 
 

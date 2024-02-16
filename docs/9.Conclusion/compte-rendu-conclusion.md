@@ -8,7 +8,7 @@ order: 9
 
 
 ![conclusion](/lab-markdown/9.Conclusion/images/conclusion.jpg)
-*Figure 9: conclusion*
+*Figure 11: conclusion*
 
 
 
