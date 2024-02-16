@@ -9,9 +9,9 @@ Markdown est un langage facile à lire et à écrire pour formater du texte brut
 
 
 
-## Syntaxe de base pour l'écriture et la mise en forme
 
-### En-têtes
+
+## En-têtes
 
 Pour créer un titre, ajoutez un à six symboles # avant le texte de votre titre. Le nombre de # que vous utilisez déterminera le niveau de hiérarchie et la taille de police du titre.
 
@@ -22,7 +22,7 @@ Pour créer un titre, ajoutez un à six symboles # avant le texte de votre titre
 
 
 
-### Style du texte
+## Style du texte
 
 Vous pouvez indiquer l'importance d'un texte en gras, en italique, en barré, en indice ou en superscript dans les champs de commentaires et les fichiers .md.
 
@@ -54,7 +54,7 @@ _You **can** combine them_<br>
 
 
 
-### Lists
+## Lists
 
 ![Exposé Markdown](/lab-markdown/3.Exposé-markdown/images/List.png)
 
@@ -83,7 +83,7 @@ Pour trier votre liste, faites précéder chaque ligne d'un nombre.
 
 
 
-### Tables
+## Tables
 
 ![Exposé Markdown](/lab-markdown/3.Exposé-markdown/images/Table.jpg)
 
@@ -102,7 +102,7 @@ Pour trier votre liste, faites précéder chaque ligne d'un nombre.
 | This | is 3rd | row |
 
 
-### CheckBox
+## CheckBox
 ![Exposé Markdown](/lab-markdown/3.Exposé-markdown/images/Checkbox.png)
 
 Vous pouvez utiliser cette syntaxe dans le ticket de GitHub pour cocher ou décocher la case en temps réel sans avoir à modifier la version originale du ticket.
@@ -126,7 +126,7 @@ Vous pouvez utiliser cette syntaxe dans le ticket de GitHub pour cocher ou déco
 
 
 
-### Quoting Text
+## Quoting Text
 ![Exposé Markdown](/lab-markdown/3.Exposé-markdown/images/Quoting.png)
 
 ````
@@ -139,6 +139,7 @@ Vous pouvez utiliser cette syntaxe dans le ticket de GitHub pour cocher ou déco
 
 
 ## Conclusion
+![Exposé Markdown](/lab-markdown/3.Exposé-markdown/images/Conclusion.jpg)
 
 Markdown est qu'il s'agit d'un langage de balisage léger utilisé pour formater du texte de manière simple et facile à lire. C'est un outil très utile pour créer des documents formatés sans avoir à utiliser un éditeur de texte compliqué. Markdown permet aux utilisateurs d'ajouter rapidement des en-têtes, des listes, des liens, des images et d'autres éléments de mise en forme de base à leurs documents. De plus, il est compatible avec la plupart des plateformes et des programmes d'édition de texte. En résumé, Markdown est un outil simple mais puissant pour la création de documents formatés.
 
