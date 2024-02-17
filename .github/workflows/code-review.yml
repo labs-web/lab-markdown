@@ -1,8 +1,8 @@
-name: Validation de code
+name: Révision des codes
 on:
   pull_request
 jobs:
-  code-review-job:
+  validation-pullrequest:
     name: Validation de pullrequest
     runs-on: ubuntu-latest
     steps:
