@@ -3,7 +3,7 @@ layout: default
 chapitre: Taille d'image
 order: 7
 ---
- 
+  
 
 # Taille d'image 
 - Redimensionne d'une image avec les solutions suivantes :
