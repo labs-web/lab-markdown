@@ -25,4 +25,4 @@ jobs:
         run: echo "How many linked issues? ${{ steps.check-linked-issues.outputs.issues }}"
       - name: run code-review.ps1
         shell: pwsh
-        run: ./scripts/code-review/code-review.ps1 "${{ github.event.pull_request.title }}" ${{github.event.pull_request.commits}}
+        run: ./scripts/code-review/code-review.ps1 "${{ github.event.pull_request.title }}" ${{github.event.pull_request.commits}} ${{ steps.check-linked-issues.outputs.issues }}
