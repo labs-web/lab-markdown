@@ -16,10 +16,10 @@ jobs:
       - name: Check out repository code
         uses: actions/checkout@v4
         with:
-          # ref: ${{ github.event.pull_request.head.sha }}
+          ref: ${{ github.event.pull_request.head.sha }}
           fetch-depth: 0 # inclure l'history de deux commit
           submodules: true
-      - run : git checkout ${{ github.event.pull_request.head.sha }} 
+      # - run : git checkout ${{ github.event.pull_request.head.sha }} 
       - name: Find linked issues
         uses: nearform-actions/github-action-check-linked-issues@v1
         id: check-linked-issues
