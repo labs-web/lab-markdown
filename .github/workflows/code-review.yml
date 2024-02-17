@@ -3,7 +3,7 @@ on:
   pull_request
 jobs:
   code-review-job:
-    name: validation de pullrequest
+    name: Validation de pullrequest
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository code
