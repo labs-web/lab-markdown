@@ -32,3 +32,5 @@ jobs:
       - name: run code-review.ps1
         shell: pwsh
         run: ./scripts/code-review/code-review.ps1 "${{ github.event.pull_request.title }}" ${{github.event.pull_request.commits}} ${{ steps.check-linked-issues.outputs.issues }}
+        env:
+          GH_TOKEN: ${{ secrets.GHPROJECT_TOKEN }}
