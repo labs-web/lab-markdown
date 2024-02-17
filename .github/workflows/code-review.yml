@@ -1,9 +1,9 @@
-name: code-review
+name: Validation de code
 on:
   pull_request
 jobs:
-  code-review:
-    name: code-review job
+  code-review-job:
+    name: validation de pullrequest
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository code
