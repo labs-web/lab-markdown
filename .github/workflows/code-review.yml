@@ -21,7 +21,7 @@ jobs:
           submodules: true
       # - run : git checkout ${{ github.event.pull_request.head.sha }} 
       - name: Find linked issues
-        uses: nearform-actions/github-action-check-linked-issues@v1
+        uses: nearform-actions/github-action-check-linked-issues@v1.4
         id: check-linked-issues
         with:
           exclude-branches: "main"
