@@ -1,9 +1,10 @@
 name: Révision de code
+
 on:
   pull_request
 
 # on:
-#   pull_request_target:
+#   pull_request:
 #     types: [opened, edited, reopened, synchronize]
 jobs:
   validation-pullrequest:
@@ -25,8 +26,6 @@ jobs:
         id: check-linked-issues
         with:
           exclude-branches: "main"
-      - name: Get the output
-        run: echo "How many linked issues? ${{ steps.check-linked-issues.outputs.issues }}"
       - name : update scripts 
         shell: pwsh
         run : |
