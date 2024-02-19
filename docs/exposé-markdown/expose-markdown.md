@@ -5,14 +5,15 @@ order: 4
 ---
 
 # Éxposé markdown
-![Exposé Markdown](/lab-markdown/3.Exposé-markdown/images/Introduction.png)
 
-Markdown est un langage facile à lire et à écrire pour formater du texte brut. Vous pouvez utiliser la syntaxe Markdown, ainsi que certaines balises HTML supplémentaires, pour formater votre écriture sur GitHub, dans des endroits tels que les README du référentiel et les commentaires sur les demandes d'extraction et les problèmes. 
+![Exposé Markdown](./images/Introduction.png)
 
+<!-- note -->
 
-## Lien de Présentation
-[Présentation exposé Markdown](/lab-markdown/3.Exposé-markdown/presentation.html)
+Markdown est un langage facile à lire et à écrire pour formater du texte brut. Vous pouvez utiliser la syntaxe Markdown, ainsi que certaines balises HTML supplémentaires, pour formater votre écriture sur GitHub, dans des endroits tels que les README du référentiel et les commentaires sur les demandes d'extraction et les problèmes.
 
-## Lien de Rapport
-[Rapport exposé Markdown](/lab-markdown/3.Exposé-markdown/rapport.html)
+- Lien de Présentation
+  - [Présentation exposé Markdown](./presentation.html)
 
+- Lien de Rapport
+  - [Rapport exposé Markdown](./rapport.html)
