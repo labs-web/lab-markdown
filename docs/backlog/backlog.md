@@ -1,5 +1,6 @@
 ---
 layout: default
+<<<<<<< HEAD:docs/Backlog/backlog.md
 order: 2
 ---
 
@@ -11,6 +12,16 @@ order: 2
 
 <!-- note -->
 
+=======
+chapitre: Backlog
+order: 2
+---
+
+# Backlog
+<!-- new slide -->
+## Structure des dossiers
+<!-- note -->
+>>>>>>> develop:docs/backlog/backlog.md
 - docs
     - Index.md
     - Introduction
@@ -35,5 +46,9 @@ order: 2
         - Backlog.md
     - rapport.md
     - présentation.html
+<<<<<<< HEAD:docs/Backlog/backlog.md
 
     <!-- new slide -->
+=======
+<!-- new slide -->
+>>>>>>> develop:docs/backlog/backlog.md

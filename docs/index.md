@@ -1,15 +1,20 @@
 ---
 layout: default
-slug: /index
 order: 1
 ---
 
+{% assign pages = site.pages | sort: "order" %}
+{% for page in pages %}
+ {% if page.chapitre %}
+    {{- page.content | markdownify -}}
+  {% endif %}
+{% endfor %}
 
-<!--  -->   
 
-## Rapport 
-[Rapport](https://labs-web.github.io/lab-markdown/rapport.html)
 
+<<<<<<< HEAD
 ## Présentation 
 [Présentation](https://labs-web.github.io/lab-markdown/presentation.html)
+=======
+>>>>>>> develop
 

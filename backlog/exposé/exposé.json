@@ -1,0 +1,21 @@
+{   "Label":"exposé",                     
+    "Description":"Réalisation d'un exposé",
+    "Livrables" :[
+        {
+            "Chemin":"/docs/{Nom_Issue}/{Nom_Issue}.md",
+            "Description":"Résumé du l'exposé, liens vers le rapport et l'exposé"
+        },
+        {
+            "Chemin":"/docs/{Nom_Issue}/rapport.md",
+            "Description":"Le rapport de l'exposé"
+        },
+        {
+            "Chemin":"/docs/{Nom_Issue}/présentation.md",
+            "Description":"La présentation de l'exposé avec zéro texte"
+        },
+        {
+            "Chemin":"/docs/{Nom_Issue}/images/",
+            "Description":"Les images de l'exposé"
+        }        
+    ]
+}
