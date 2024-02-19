@@ -18,6 +18,5 @@ pandoc presentation.md -f markdown -t html -s -o convertion-en-html.html
 [Pandoc]()
 
 ## Livrables
-
 - [Rapport](/lab-markdown/8.convertion-en-html/rapport.html)
 - [Presentation](/lab-markdown/8.convertion-en-html/presentation.html)
