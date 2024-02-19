@@ -17,7 +17,7 @@ order: 8
 
 # Introduction
 
-![Pandoc](/lab-markdown/8.convertion-en-html/images/pandoc.png)
+![Pandoc](/lab-markdown/convertion-en-html/images/pandoc.png)
 
 <!-- new slide -->
 
@@ -39,6 +39,6 @@ Pandoc est un outil polyvalent en ligne de commande permettant de convertir entr
 
 # Conclusion
 
-![Conclusion](/lab-markdown/8.convertion-en-html/images/conclusion.png)
+![Conclusion](/lab-markdown/convertion-en-html/images/conclusion.png)
 
 <!-- new slide -->

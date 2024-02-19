@@ -4,7 +4,7 @@ chapitre: outil de convertion md en html
 order: 8
 ---
 # Outil de convertion md en html
-![Pandoc](/lab-markdown/8.convertion-en-html/images/pandoc.png)
+![Pandoc](/lab-markdown/convertion-en-html/images/pandoc.png)
 *figure: Pandoc*
 
 <!-- note -->
@@ -18,5 +18,5 @@ pandoc presentation.md -f markdown -t html -s -o convertion-en-html.html
 [Pandoc]()
 
 ## Livrables
-- [Rapport](/lab-markdown/8.convertion-en-html/rapport.html)
-- [Presentation](/lab-markdown/8.convertion-en-html/presentation.html)
+- [Rapport](/lab-markdown/convertion-en-html/rapport.html)
+- [Presentation](/lab-markdown/convertion-en-html/presentation.html)
