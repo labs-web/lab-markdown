@@ -1,13 +1,13 @@
-# Lab-Markdown 
-
+# Lab-Markdown     
+                           
 - Référence :  lab-markdown 
-
- 
+   
+      
 
 ## Backlog 
 
 Le backlog est une liste ordonées des tâches 
-
+  
 - **chapitre** 
 - **exposé** 
   - [1.exposé-markdown.25.md](./Backlog/exposé/1.exposé-markdown.25.md) 
@@ -32,10 +32,10 @@ Le backlog est une liste ordonées des tâches
   - Documentation 
 ## Références 
 
- 
 
 - [Documentation](https://labs-web.github.io/lab-markdown/) 
 - [Rapport](https://labs-web.github.io/lab-markdown/)
 - [Presentation](https://labs-web.github.io/lab-markdown/presentation.html)
+
 
 
