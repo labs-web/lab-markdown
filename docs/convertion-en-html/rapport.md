@@ -17,7 +17,7 @@ order: 8
 <!-- new slide -->
 # Introduction
 
-![Pandoc](/lab-markdown/8.convertion-en-html/images/pandoc.png)
+![Pandoc](/lab-markdown/convertion-en-html/images/pandoc.png)
 <!-- new slide -->
 # Définition
 
