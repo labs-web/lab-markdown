@@ -34,6 +34,9 @@ Pandoc est un outil polyvalent en ligne de commande permettant de convertir entr
 - HTML en PDF.
 <!-- new slide -->
 
+## Outil 
+[Pandoc](https://github.com/jgm/pandoc/releases/tag/3.1.12)
+
 # Conclusion
 
 ![Conclusion](/lab-markdown/8.convertion-en-html/images/conclusion.png)
