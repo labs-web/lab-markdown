@@ -22,7 +22,7 @@ order: 6
 
 ## Solicode Tanger
 
-![Solicode](/lab-markdown/6.présentation-solicode/images/solicode.jpg)
+![Solicode](./images/solicode.jpg)
 <!-- new slide -->
 
 # À propos
@@ -31,7 +31,7 @@ order: 6
 
 ## À propos de SoliCode
 
-![Solicode](/lab-markdown/6.présentation-solicode/images/solicode-banner.jpg)
+![Solicode](./images/solicode-banner.jpg)
 *Figure 1: solicode tanger*
 
 <!-- new slide -->
@@ -42,7 +42,7 @@ order: 6
 
 ## Type des activités
 
-![activiteés](/lab-markdown/6.présentation-solicode/images/solicode-gal5_0.jpg)
+![activiteés](./images/solicode-gal5_0.jpg)
 
 <!-- new slide -->
 
@@ -52,11 +52,11 @@ order: 6
 
 ## Comptes de réseaux sociaux
 
-![Comptes de réseaux sociaux](/lab-markdown/6.présentation-solicode/images/social-media7697.jpg)
+![Comptes de réseaux sociaux](./images/social-media7697.jpg)
 
 <!-- new slide -->
 
 # Conclusion
 
-![Conclusion](/lab-markdown/6.présentation-solicode/images/conclusion.png)
+![Conclusion](./images/conclusion.png)
 
