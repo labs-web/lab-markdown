@@ -16,5 +16,5 @@ SOLICODE est un centre de formation pour les jeunes âgés de 18 à 34 ans spéc
 
 ## Livrables
 
-- [https://labs-web.github.io/lab-markdown/6.présentation-solicode/rapport.html](/lab-markdown/6.présentation-solicode/rapport.html)
-- [https://labs-web.github.io/lab-markdown/6.présentation-solicode/presentation.html#/](/lab-markdown/6.présentation-solicode/presentation.html)
+- [https://labs-web.github.io/lab-markdown/présentation-solicode/rapport.html](/lab-markdown/présentation-solicode/rapport.html)
+- [https://labs-web.github.io/lab-markdown/présentation-solicode/presentation.html#/](/lab-markdown/présentation-solicode/presentation.html)

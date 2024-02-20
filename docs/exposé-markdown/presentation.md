@@ -7,39 +7,46 @@ order: 1
 <!-- new slide -->
 
 ## Introduction
-![Exposé Markdown](/lab-markdown/3.Exposé-markdown/images/Introduction.png){:width="50%" }
+
+![Exposé Markdown](./images/Introduction.png){:width="400px" }
 
 <!-- new slide -->
 
 ## En-têtes
-![Exposé Markdown](/lab-markdown/3.Exposé-markdown/images/En_tetes.png){:width="50%" }
+
+![Exposé Markdown](./images/En_tetes.png){:width="400px" }
 
 <!-- new slide -->
 
 ## Style du texte
-![Exposé Markdown](/lab-markdown/3.Exposé-markdown/images/Font.png){:width="48%" }
+
+![Exposé Markdown](./images/Font.png){:width="48%" }
 
 <!-- new slide -->
 
 ## Lists
-![Exposé Markdown](/lab-markdown/3.Exposé-markdown/images/List.png){:width="80%" }
+
+![Exposé Markdown](./images/List.png){:width="80%" }
 
 <!-- new slide -->
 
 ## Tables
-![Exposé Markdown](/lab-markdown/3.Exposé-markdown/images/Table.jpg)
+
+![Exposé Markdown](./images/Table.jpg){:width="400px" }
 
 <!-- new slide -->
 
 ## CheckBox
-![Exposé Markdown](/lab-markdown/3.Exposé-markdown/images/Checkbox.png)
+
+![Exposé Markdown](./images/Checkbox.png){:width="400px" }
 
 <!-- new slide -->
 
 ## Quoting Text
-![Exposé Markdown](/lab-markdown/3.Exposé-markdown/images/Quoting.png)
+
+![Exposé Markdown](./images/Quoting.png){:width="400px" }
 <!-- new slide -->
 
-# Conclusion
+## Conclusion
 
-![Exposé Markdown](/lab-markdown/3.Exposé-markdown/images/Conclusion.jpg){:width="50%" }
+![Exposé Markdown](./images/Conclusion.jpg){:width="400px" }

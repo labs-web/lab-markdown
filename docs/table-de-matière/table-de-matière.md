@@ -10,7 +10,7 @@ order: 0
 - [Backlog](#backlog)
 - [Installation-extentions](#installation-extentions)
 - [Éxposé markdown](#éxposé-markdown)
-- [Rappel markdown](#rappel--markdown)
+- [Rappel markdown](#rappel-markdown)
 - [Présentation-de-solicode-en-Markdown](#présentation-de-solicode-en-markdown)
 - [Taille-d'image](#taille-dimage)
 - [Outil de convertion md en html](#outil-de-convertion-md-en-html)
