@@ -94,7 +94,7 @@ Pour trier votre liste, faites précéder chaque ligne d'un nombre.
 ## Tables
 
 ![Exposé Markdown](/lab-markdown/exposé-markdown/images/Table.jpg)
-*figure: En Tables*
+*figure: Tables*
 ````
 |Header1|Header2|Header3|
 | --- | --- | --- |
