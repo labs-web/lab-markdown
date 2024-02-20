@@ -3,32 +3,37 @@
 ## Introduction 
 
 ![Exposé Markdown](/lab-markdown/exposé-markdown/images/Introduction.png)
+*figure: Introduction Markdown*
+
 
 Markdown est un langage facile à lire et à écrire pour formater du texte brut. Vous pouvez utiliser la syntaxe Markdown, ainsi que certaines balises HTML supplémentaires, pour formater votre écriture sur GitHub, dans des endroits tels que les README du référentiel et les commentaires sur les demandes d'extraction et les problèmes. 
 
-*figure: Introduction Markdown*
+
 
 
 
 ## En-têtes
 
+![Exposé Markdown](/lab-markdown/exposé-markdown/images/En_tetes.png)
+*figure: En têtes*
+
 Pour créer un titre, ajoutez un à six symboles # avant le texte de votre titre. Le nombre de # que vous utilisez déterminera le niveau de hiérarchie et la taille de police du titre.
 
 
 
-![Exposé Markdown](/lab-markdown/exposé-markdown/images/En_tetes.png)
 
-*figure: En têtes*
 
 
 
 
 ## Style du texte
 
-Vous pouvez indiquer l'importance d'un texte en gras, en italique, en barré, en indice ou en superscript dans les champs de commentaires et les fichiers .md.
-
 ![Exposé Markdown](/lab-markdown/exposé-markdown/images/Font.png)
 *figure: Style du texte*
+
+Vous pouvez indiquer l'importance d'un texte en gras, en italique, en barré, en indice ou en superscript dans les champs de commentaires et les fichiers .md.
+
+
 
 ````
 git
