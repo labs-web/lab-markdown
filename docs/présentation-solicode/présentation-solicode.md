@@ -5,7 +5,7 @@ order: 6
 ---
 <!-- new slide -->
 
-## Présentation de solicode
+# Présentation de solicode
 
 ![Solicode](./images/solicode.jpg){: width="400px" }
 *solicode tanger*
