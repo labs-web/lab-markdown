@@ -3,9 +3,12 @@ layout: presentation
 order: 8
 ---
 
+
 # convertion md en html
 
+
 <!-- new slide -->
+
 
 ## Plan
 
@@ -26,6 +29,7 @@ order: 8
 # Définition
 
 Pandoc est un outil polyvalent en ligne de commande permettant de convertir entre différents formats de document. Il prend en charge une large gamme de formats d'entrée et de sortie, notamment Markdown, HTML, LaTeX, PDF, DOCX, et bien d'autres..
+
 
 <!-- new slide -->
 

@@ -15,6 +15,7 @@ Pandoc est un outil polyvalent en ligne de commande permettant de convertir entr
 
 ```bash
 pandoc presentation.md -f markdown -t html -s -o convertion-en-html.html
+pandoc presentation.md -f markdown -t html -s -o convertion-en-html.html
 ```
 
 ## Outil
