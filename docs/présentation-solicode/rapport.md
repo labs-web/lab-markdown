@@ -29,6 +29,7 @@ SOLICODE est un centre de formation pour les jeunes âgés de 18 à 34 ans spéc
 # À propos de SoliCode
 
 ![Solicode](./images/solicode-banner.jpg)
+![Solicode](./images/solicode-banner.jpg)
 *Figure 1: solicode tanger*
 
 SOLICODE est un centre de formation dédié aux jeunes de 18 à 34 ans, spécialisé dans le développement Web et mobile. Plaçant les apprenants au cœur de leur processus d'apprentissage, nous les encourageons à réaliser des projets inspirés du monde professionnel. Nous proposons une variété d'activités pour favoriser l'apprentissage et la passion pour la technologie. Nos clubs incluent l'informatique, la robotique, Linux et bien d'autres.
