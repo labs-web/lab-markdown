@@ -6,7 +6,7 @@ order: 4
 
 # Éxposé markdown
 
-![Exposé Markdown](./images/Introduction.png)
+![Exposé Markdown](/lab-markdown/exposé-markdown/images/Introduction.png)
 
 <!-- note -->
 

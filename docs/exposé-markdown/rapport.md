@@ -7,7 +7,7 @@ order: 1
   
 ## Introduction
 
-![Exposé Markdown](./images/Introduction.png)
+![Exposé Markdown](/lab-markdown/exposé-markdown/images/Introduction.png)
 
 Markdown est un langage facile à lire et à écrire pour formater du texte brut. Vous pouvez utiliser la syntaxe Markdown, ainsi que certaines balises HTML supplémentaires, pour formater votre écriture sur GitHub, dans des endroits tels que les README du référentiel et les commentaires sur les demandes d'extraction et les problèmes.
 
@@ -15,13 +15,13 @@ Markdown est un langage facile à lire et à écrire pour formater du texte brut
 
 Pour créer un titre, ajoutez un à six symboles # avant le texte de votre titre. Le nombre de # que vous utilisez déterminera le niveau de hiérarchie et la taille de police du titre.
 
-![Exposé Markdown](./images/En_tetes.png)
+![Exposé Markdown](/lab-markdown/exposé-markdown/images/En_tetes.png)
 
 ## Style du texte
 
 Vous pouvez indiquer l'importance d'un texte en gras, en italique, en barré, en indice ou en superscript dans les champs de commentaires et les fichiers .md.
 
-![Exposé Markdown](./images/Font.png)
+![Exposé Markdown](/lab-markdown/exposé-markdown/images/Font.png)
 
 ````git
 
@@ -47,7 +47,7 @@ _You **can** combine them_<br>
 
 ## Lists
 
-![Exposé Markdown](./images/List.png)
+![Exposé Markdown](/lab-markdown/exposé-markdown/images/List.png)
 
 Vous pouvez créer une liste non triée en faisant précéder une ou plusieurs lignes de texte de -, * ou +.
 
@@ -76,7 +76,7 @@ Pour trier votre liste, faites précéder chaque ligne d'un nombre.
 
 ## Tables
 
-![Exposé Markdown](./images/Table.jpg)
+![Exposé Markdown](/lab-markdown/exposé-markdown/images/Table.jpg)
 
 ````shell
 | Header1 | Header2 | Header3 |
@@ -94,7 +94,7 @@ Pour trier votre liste, faites précéder chaque ligne d'un nombre.
 
 ## CheckBox
 
-![Exposé Markdown](./images/Checkbox.png)
+![Exposé Markdown](/lab-markdown/exposé-markdown/images/Checkbox.png)
 
 Vous pouvez utiliser cette syntaxe dans le ticket de GitHub pour cocher ou décocher la case en temps réel sans avoir à modifier la version originale du ticket.
 
@@ -114,7 +114,7 @@ Vous pouvez utiliser cette syntaxe dans le ticket de GitHub pour cocher ou déco
 
 ## Quoting Text
 
-![Exposé Markdown](./images/Quoting.png)
+![Exposé Markdown](/lab-markdown/exposé-markdown/images/Quoting.png)
 
 ````shell
 > This is a block quoted text
@@ -124,6 +124,6 @@ Vous pouvez utiliser cette syntaxe dans le ticket de GitHub pour cocher ou déco
 
 ## Conclusion
 
-![Exposé Markdown](./images/Conclusion.jpg)
+![Exposé Markdown](/lab-markdown/exposé-markdown/images/Conclusion.jpg)
 
 Markdown est qu'il s'agit d'un langage de balisage léger utilisé pour formater du texte de manière simple et facile à lire. C'est un outil très utile pour créer des documents formatés sans avoir à utiliser un éditeur de texte compliqué. Markdown permet aux utilisateurs d'ajouter rapidement des en-têtes, des listes, des liens, des images et d'autres éléments de mise en forme de base à leurs documents. De plus, il est compatible avec la plupart des plateformes et des programmes d'édition de texte. En résumé, Markdown est un outil simple mais puissant pour la création de documents formatés.
