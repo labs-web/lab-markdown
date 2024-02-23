@@ -5,10 +5,11 @@ order: 7
 ---
  
 
-# Taille d'image 
+# Taille d'image
+
 - Redimensionne d'une image avec les solutions suivantes :
-   - Installation d'une extensions VS Code
-   - Utilisation de Kramdown
+  - Installation d'une extensions VS Code
+  - Utilisation de Kramdown
 
 <!-- new slide -->
 ## Démonstration Luna Paint — Image Editor
@@ -19,28 +20,22 @@ order: 7
 <!-- note -->
 Luna Paint est une extension VS Code qui vous permet de modifier des images raster depuis l'éditeur, ouvrez simplement une image depuis l'explorateur et commencez à la modifier comme n'importe quel autre fichier.
 
-
 - Nom: Luna Paint — Image Editor
   - Id: Tyriar.luna-paint
   - Description: Modifiez les images dans VS Code ! Prend en charge les formats png, jpg, webp, bmp, tga et ico.
   - VS Marketplace Lien : https://marketplace.visualstudio.com/items?itemName=Tyriar.luna-paint
 
-
 ## Example d'image en utilisant kramdown
-
 
 ```bash
 ![Solicode](./images/solicode.jpeg){:width="500px"}
 ```
 
-
 ## Références
 
-- [Image Resize And Convert Tools](https://marketplace.visualstudio.com/items?itemName=GuusBeltman.ImageTools)
+- [https://marketplace.visualstudio.com/items?itemName=GuusBeltman.ImageTools](https://marketplace.visualstudio.com/items?itemName=GuusBeltman.ImageTools)
 <br>
 
-- [Kramdown utilisation pour resize image](https://copyprogramming.com/howto/changing-image-size-in-markdown-on-gitlab#google_vignette)
-
+- [https://copyprogramming.com/howto/changing-image-size-in-markdown-on-gitlab](https://copyprogramming.com/howto/changing-image-size-in-markdown-on-gitlab)
 
 <!-- new slide -->
-

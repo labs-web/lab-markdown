@@ -10,7 +10,7 @@ Nous passerons en revue les balises Markdown, un langage léger utilisé pour fo
 
 ## Lien de Rapport
 
-[https://labs-web.github.io/lab-markdown/5.Rappel-markdown/rapport.html](/lab-markdown/5.Rappel-markdown/rapport.html)
+- [https://labs-web.github.io/lab-markdown/rappel-markdown/rapport.html](https://labs-web.github.io/lab-markdown/rappel-markdown/rapport.html)
 
 ## Référence
 

@@ -7,7 +7,7 @@ order: 3
 
 ## Introduction
 
-![Logo Markdown](/lab-markdown/5.Rappel-markdown/images/Markdown-mark.png){: width="400px" }_figure 1: Introduction_
+![Logo Markdown](/lab-markdown/rappel-markdown//images/Markdown-mark.png){: width="400px" }_figure 1: Introduction_
 
 <!-- note -->
 
@@ -61,21 +61,21 @@ _Texte en italique_
 - Exemple :
 
 ```bash
-![alt](/lab-markdown/5.Rappel-markdown/images/markdownlogo.png)
+![alt](/lab-markdown/rappel-markdown/images/markdownlogo.png)
 
 ```
 
-![Logo Markdown](/lab-markdown/5.Rappel-markdown/images/markdownlogo.png)_figure 2: exemple de image en markdown_
+![Logo Markdown](/lab-markdown/rappel-markdown/images/markdownlogo.png)_figure 2: exemple de image en markdown_
 
 Les images peuvent avoir des attributs de style en ligne tels que la largeur et la hauteur:
 
 ```bash
 
-![Alt](/lab-markdown/5.Rappel-markdown/images/markdownlogo.png){: width="100" height="100"}
+![Alt](/lab-markdown/rappel-markdown/images/markdownlogo.png){: width="100" height="100"}
 
 ```
 
-![Logo Markdown](/lab-markdown/5.Rappel-markdown/images/markdownlogo.png){: width="100" height="100"}_figure 3: exemple de resize image en markdown_
+![Logo Markdown](/lab-markdown/rappel-markdown/images/markdownlogo.png){: width="100" height="100"}_figure 3: exemple de resize image en markdown_
 
 ## Listes non ordonnées
 

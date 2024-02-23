@@ -3,16 +3,14 @@ layout: default
 order: 6
 ---
 <!-- new slide -->
-# Rapport SoliCode
+# Présentation de Solicode
 
 ## Table de matière
 
-- [Rapport SoliCode](#rapport-solicode)
+- [Présentation de Solicode](#présentation-de-solicode)
   - [Table de matière](#table-de-matière)
 - [Introduction](#introduction)
-  - [Solicode Tanger](#solicode-tanger)
-- [À propos](#à-propos)
-  - [À propos de SoliCode](#à-propos-de-solicode)
+- [À propos de SoliCode](#à-propos-de-solicode)
 - [Activités](#activités)
   - [type des activiteés](#type-des-activiteés)
 - [Réseaux sociaux](#réseaux-sociaux)
@@ -22,20 +20,15 @@ order: 6
 <!-- new slide -->
 # Introduction
 
-## Solicode Tanger
-
 ![Solicode](./images/solicode.jpg)
 *Figure 1: solicode tanger*
 
 SOLICODE est un centre de formation pour les jeunes âgés de 18 à 34 ans spécialisé dans le développement Web et mobile. Les apprenants sont au cœur de leur propre processus d'apprentissage en réalisant des projets inspirés de l'environnement professionnel.
 <!-- new slide -->
 
-# À propos
+# À propos de SoliCode
 
-<!-- new slide -->
-
-## À propos de SoliCode
-
+![Solicode](./images/solicode-banner.jpg)
 ![Solicode](./images/solicode-banner.jpg)
 *Figure 1: solicode tanger*
 
@@ -68,6 +61,9 @@ Nous organisons également des événements visant à connecter nos étudiants a
 
 # Conclusion
 
-![Conclusion](./images/conclusion.png)
+![Conclusion](./images/conclusion.png){: width="400px" }
 *Figure 2: Conclusion*
+
+En conclusion, SOLICODE offre une opportunité unique aux jeunes âgés de 18 à 34 ans de se former dans les domaines du développement Web et mobile, tout en mettant l'accent sur l'apprentissage pratique à travers la réalisation de projets inspirés du monde professionnel. En plaçant les apprenants au cœur de leur propre processus d'apprentissage, SOLICODE favorise non seulement l'acquisition de compétences techniques de pointe, mais aussi le développement de la créativité, de la résolution de problèmes et de la collaboration. Avec son approche centrée sur l'étudiant, SOLICODE vise à préparer efficacement la prochaine génération de professionnels du numérique à réussir dans un environnement en constante évolution.
+
 <!-- new slide -->
